@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta charset="utf-8">
+        <meta name="keyword" content="คำร้องเพิ่มถอน ,	TUคำร้อง	,	คำร้องเพิ่มถอนล่าช้ามหาลัยธรรมศาสตร์	,	มธ">
+        <meta name="description" content="ใบคำร้องการเพิ่มถอนล่าช้ามหาลัยธรรมศาสตร์">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>คำร้องขอถอนรายวิชา</title>
+	<!-- bootstrap -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+	<!-- font import -->
+	<link href='https://fonts.googleapis.com/css?family=Kanit&subset=thai,latin' rel='stylesheet' type='text/css'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- CSS -->
+	<link href='https://fonts.googleapis.com/css?family=Kanit&subset=thai,latin' rel='stylesheet' type='text/css'>
+	<style>
+	body {
+		font-family: 'Kanit', sans-serif;
+		background-color: #262626;
+		color: white;
+
+	}
+	#myH1 {
+					text-shadow:5px 5px 25px black;
+				}
+	#myPadding {
+		padding: 85px;
+	}
+
+
+	</style>
+
+</head>
+<body>
+
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<div class="container-fluid">
+		<a class="navbar-brand" >THAMMASAT UNIVERSITY</a>
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		  <span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+		  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+			<li class="nav-item">
+			  <a class="nav-link active" aria-current="page" >กรอกคำร้องเพิ่มถอน</a>
+			</li>
+			<li class="nav-item">
+			  <a class="nav-link" href="Status_Page.html">Status</a>
+			</li>
+			<li class="nav-item dropdown">
+			  <a class="nav-link dropdown" onclick="logout()" >
+				Log Out
+			  </a>
+			  <script>
+				  async function logout() {
+						const response = await fetch('http://localhost:3000/auth/logout', {
+							method: 'get',
+							credentials: "include",
+							headers: {
+								'appkey': 'Lh%TvmX@FW5@%@cWVUpENqm44kEX!78@L3dc94G#^biU5G@9rPnX@%i4pCtpa87^4ruXUmC78FKVh*tBrZFAt%iPM72RanfjwgTV&TWC$pPE^Jhac5MWnd$s7hFr%$aS',
+							},
+						});
+						window.location.href = 'LoginPage.html'
+					}
+			  </script>
+			</li>
+		  </ul>
+		</div>
+		</div>
+		</nav>
+
+		<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+			<div class="carousel-inner">
+			  <div class="carousel-item active">
+				<img src="resource/slide.png" class="d-block w-100" alt="...">
+					  <div id = myH1>
+					  <div class="card-img-overlay">
+					  <br><center>  <h1 class="fw-bold"><br><br>คำร้องขอเพิ่ม-ถอน รายวิชา</h1></center>
+					  <center><h5 class="card-text">คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต</h5></center>
+
+				  </div></div>
+			  </div>
+			  <div class="carousel-item">
+				<img src="resource/slide2.png" class="d-block w-100" alt="...">
+					  <div id = myH1>
+					  <div class="card-img-overlay">
+					  <br><center>  <h1 class="fw-bold"><br><br>คำร้องขอเพิ่ม-ถอน รายวิชา</h1></center>
+					  <center><h5 class="card-text">คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต</h5></center>
+
+				  </div></div>
+			  </div>
+			  <div class="carousel-item">
+				<img src="resource/slide3.png" class="d-block w-100" alt="...">
+					  <div id = myH1>
+					  <div class="card-img-overlay">
+					  <br><center>  <h1 class="fw-bold"><br><br>คำร้องขอเพิ่ม-ถอน รายวิชา</h1></center>
+					  <center><h5 class="card-text">คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต</h5></center>
+
+				  </div></div>
+			  </div>
+			</div>
+			<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+			  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			  <span class="visually-hidden">Previous</span>
+			</button>
+			<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+			  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+			  <span class="visually-hidden">Next</span>
+			</button>
+		  </div>
+
+
+				<div id = "myPadding">
+				<!--Form input from user-->
+				<form class="row g-15">
+					<div class="col-md-12">
+						<h6><light>Date (วันที่)<span style="color:#ebc700;">*</span></h6>
+					  <input type="date" id="date" required>
+					  </div>
+					<div class="col-md-12">
+						<div class="text-center">
+						<h1><br><light>Student Information (ข้อมูลนักศึกษา)</h1>
+						</div>
+						<br>
+							</div>
+
+						<div  class="col-md-2"><label  class="customize-form">ข้าพเจ้า <span style="color:#ebc700;">*</span></label>
+							<select class="form-select form-select mb-3" aria-label=".form-select-lg example" id="gender">
+								<option>นาย</option>
+								<option>นาง</option>
+								<option>นางสาว</option>
+							</select>
+						</div>
+
+						<div class="col-sm-3 container-fluid"><label for="FirstName">ชื่อ <span style="color:#ebc700;">*</span></label>
+						<input id="f_name" class="form-control"type="text" name="FirstName" placeholder="ชื่อต้น" ></div>
+
+
+						<div class="col-sm-3 container-fluid"><label for="LastName">นามสกุล <span style="color:#ebc700;">*</span></label>
+						<input id="l_name" class="form-control"type="text" name="LastName" placeholder="นามสกุล" ></div>
+
+						<div class="col-sm-4 container-fluid">
+							<label for="stu_Id">เลขทะเบียนนักศึกษา <span style="color:#ebc700;">*</span></label>
+							<input class="form-control" id="stu_id" maxlength="10" type="PhoneNumber" name="studentid" placeholder="เลขทะเบียน 10 หลัก">
+
+						</div>
+					<br>
+
+						<div class="col-sm-4 container-fluid">
+							<label for="year">ชั้นปีที่ <span style="color:#ebc700;">*</span></label><br>
+							<select class="form-control" id="year" name="year" required="">
+								  <option value="1">1</option>
+								  <option value="2">2</option>
+								  <option value="3">3</option>
+								  <option value="4">4</option>
+								  <option value="5">5</option>
+								  <option value="6">6</option>
+								  <option value="7">7</option>
+							</select>
+
+						</div>
+
+						<div class="col-sm-4 container-fluid">
+							<label for="Faculty">สาขาวิชา <span style="color:#ebc700;">*</span>
+							</label>
+							<select id="faculty" class="form-select form-select mb-3" aria-label=".form-select-lg example">
+								<option value="คณิตศาสตร์และสถิติ">สาขาวิชาคณิตศาสตร์และสถิติ</option>
+	              <option value="ฟิสิกส์">สาขาวิชาฟิสิกส์</option>
+	              <option value="เคมี">สาขาวิชาเคมี</option>
+	              <option selected value="วิทยาการคอมพิวเตอร์">สาขาวิชาวิทยาการคอมพิวเตอร์</option>
+	              <option value="เทคโนโลยีการเกษตร">สาขาวิชาเทคโนโลยีการเกษตร</option>
+	              <option value="วิทยาศาสตร์สิ่งแวดล้อม">สาขาวิชาวิทยาศาสตร์สิ่งแวดล้อม</option>
+	              <option value="เทคโนโลยีเพื่อการพัฒนายั่งยืน">สาขาวิชาเทคโนโลยีเพื่อการพัฒนายั่งยืน</option>
+	              <option value="วิทยาศาสตร์และเทคโนโลยีการอาหาร">สาขาวิชาวิทยาศาสตร์และเทคโนโลยีการอาหาร</option>
+	              <option value="เทคโนโลยีชีวภาพ">สาขาวิชาเทคโนโลยีชีวภาพ</option>
+	              <option value="เทคโนโลยีวัสดุและสิ่งทอ">สาขาวิชาเทคโนโลยีวัสดุและสิ่งทอ</option>
+	            </select>
+						</div>
+						<div class="col-sm-4">
+							<label for="advisor">อาจารย์ที่ปรึกษา <span style="color:#ebc700;">*</span></label>
+								<input id="advisor" class="form-control" type="text" name="advisor" placeholder="จำเป็น">
+						</div>
+
+				</form><br><hr>
+
+				<form class="row g-15">
+					<div class="text-center">
+							<h1><light>Address (ที่อยู่ที่สามารถติดต่อได้)</h1>
+								<br>
+					</div>
+
+						<div class="col-sm-2">
+							<label for="houseNum">บ้านเลขที่ <span style="color:#ebc700;">*</span></label>
+							<input id="houseNum" class="form-control " type="text" name="houseNum"  placeholder="จำเป็น" >
+
+						</div>
+						<div class="col-sm-2">
+							<label for="moo">หมู่ <span style="color:#ebc700;">*</span></label>
+							<input id="moo" class="form-control "type="number" name="moo" placeholder="-">
+						</div>
+						<div class="col-sm-2">
+							<label for="sub-district">ตำบล <span style="color:#ebc700;">*</span></label>
+							<input id="subDistrict" class="form-control  " type="text" name="sub-district" placeholder="จำเป็น" >
+						</div>
+						<div class="col-sm-3">
+							<label for="district">อำเภอ <span style="color:#ebc700;">*</span></label>
+							<input id="district" class="form-control " type="text" name="district"  placeholder="จำเป็น">
+						</div>
+						<div class="col-sm-3">
+							<label for="province">จังหวัด <span style="color:#ebc700;">*</span></label>
+							<input id="province" class="form-control  " type="text" name="province" placeholder="จำเป็น" >
+						<br></div>
+						<div class="col-sm-2">
+							<label for="postal-Code">รหัสไปรษณีย์ <span style="color:#ebc700;">*</span></label>
+							<input id="postalCode" class="form-control  " type="PhoneNumber" name="postal-Code" placeholder="จำเป็น">
+						</div>
+						<div class="col-sm-5">
+							<label for="phoneNumber">โทรศัพท์มือถือ <span style="color:#ebc700;">*</span></label>
+								<input id="phoneNumber" class="form-control  " type="tel" name="phoneNumber" pattern="[0]{1}[0-9]{9}" placeholder="0XXXXXXXXX" >
+						</div>
+						<div class="col-sm-5">
+							<label for="hphoneNumber">โทรศัพท์บ้าน</label>
+								<input id="housePhone" class="form-control  " type="text" name="hphoneNumber" placeholder="ถ้ามี">
+						</div>
+				</form>
+
+				<br><hr>
+
+				<div class="text-center">
+						<h1><light>Additional/Reduced Credits Registration</h1>
+					<br>
+				</div>
+			<form id = "form" class="form-group">
+				<center>
+				<div class = "form-inline"><label for="withdraw" class="mr-3">Additional (เพิ่ม) </label>
+					<input class="col-1" class="form-control" type="number" min="0" id="add" value="0" readonly>
+					<button type = "button" id="minus" onclick = "addminus()" class="btn btn-outline-warning ">-</button>
+					<button type= "button" id="plus" onclick="addplus()" class="btn btn-outline-warning ">+</button>
+					<label for="subject" class="ml-3">วิชา</label>
+				</div></center><br>
+				<div class="table-responsive">
+					<table id="ta01" class="table table-bordered text-white">
+						<tbody id = "addtable">
+							<tr id="tradd">
+								<th id="no" width="5%">ลำดับ</th>
+								<th><center>รหัสวิชา</th>
+								<th><center>ชื่อวิชา</th>
+								<th><center>Section</th>
+								<th><center>วัน/เวลา</th>
+								<th width="5%"><center>หน่วยกิต</th>
+								<th>ชื่อผู้สอน</th>
+								<th width="10%"><center>ผู้สอนอนุญาต</th>
+							</tr>
+						</tbody>
+					</table><br>
+				</div>
+				<center>
+				<div class = "form-inline"><label for="withdraw" class="mr-3">Reduced (ถอน)</label>
+					<input class="col-1" class="form-control" type="number" min="0" id="withdraw"  value="0" readonly>
+					<button type = "button" id="minus" onclick = "withdrawminus()" class="btn btn-outline-warning ">-</button>
+					<button type= "button" id="plus" onclick="withdrawplus()" class="btn btn-outline-warning ">+</button>
+					<label for="subject" class="ml-3">วิชา</label>
+				</div></center>
+				<br>
+				<div class="table-responsive">
+					<table id="ta01" class="table table-bordered text-white">
+						<tbody id = "withdrawtable">
+							<tr id="trwit">
+								<th id="no" width="5%">ลำดับ</th>
+								<th><center>รหัสวิชา</th>
+								<th><center>ชื่อวิชา</th>
+								<th><center>Section</th>
+								<th><center>วัน/เวลา</th>
+								<th width="5%"><center>หน่วยกิต</th>
+								<th><center>ชื่อผู้สอน</th>
+								<th width="10%"><center>ผู้สอนอนุญาต</th>
+							</tr>
+						</tbody>
+					</table><br>
+				</div>
+
+				<div class="col-md-12">
+				<label for="reason" class="form-label">เหตุผลในการเพิ่ม-ถอน <span style="color:#ebc700;">*</span></label><br>
+				<textarea id="because" rows="3" class="form-control"></textarea><br><br>
+			</div>
+
+				<!-- controlfunc.js -->
+				<script src="controlfunc.js"></script>
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+			</form><hr>
+
+		<div>
+			<div class="container center">
+				<div class="row">
+					<div class="col-md-12">
+						<h1 style="text-align:center">อัพโหลดไฟล์หลักฐาน</h1>
+						<p style="text-align:center">นักศึกษาต้องรวมหลักฐานทุกอย่างไว้ใน<span style="font-weight: bold">ไฟล์เดียว</span> โดย<span style="color:#ebc700;">อัพโหลดไฟล์ชนิด pdf เท่านั้น</span></p>
+					</div>
+
+					<div class="col-md-12">
+
+
+						<form class="form" id="myForm">
+							<h3><span style="color:#ebc700; font-weight: bold;">*</span> Upload file</h3>
+							<p style="font-size:92%">หมายเหตุ : ระบุชื่อไฟล์เป็นเลขทะเบียนของนักศึกษา (เช่น 630XXXXXXX.pdf)</p>
+							<div class="form-group">
+								<input type="file" name="inpFile" id="inpFile" required><br/>
+							</div>
+						</form>
+						<br>
+						<p id="status"></p>
+						<input type="button" value="Submit" class="btn btn-outline-warning d-grid gap-2 col-6 mx-auto" onclick="send()">
+					</div>
+
+				</div>
+				<br><hr>
+			</div>
+		</div>
+
+	</div>
+	</div>
+	<footer>
+	  <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+	    <div class="carousel-inner">
+	      <div class="carousel-item active">
+	        <img src="resource/foot.png" class="d-block w-100" alt="...">
+	        </div>
+		</footer>
+		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		</body>
+</html>

@@ -1,0 +1,17 @@
+<meta charset="UTF-8">
+<p>ดูผลใน console (dev tool ของ browser)</p><br/>
+<script>
+getinfo();
+
+async function getinfo() {
+const response = await fetch('http://localhost:3000/studentinfo', {
+    method: 'get',
+    credentials: "include",
+    headers: {
+        'appkey': 'Lh%TvmX@FW5@%@cWVUpENqm44kEX!78@L3dc94G#^biU5G@9rPnX@%i4pCtpa87^4ruXUmC78FKVh*tBrZFAt%iPM72RanfjwgTV&TWC$pPE^Jhac5MWnd$s7hFr%$aS',
+    },
+});
+const res = await response.json();
+console.log(res);
+}
+</script>

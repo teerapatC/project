@@ -1,0 +1,3134 @@
+[
+    {
+        "First_Name_Th": "ACCOUNT กลาง",
+        "Last_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "First_Name_En": "ACCOUNT กลาง",
+        "Last_Name_En": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "TQF-09@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "LOKU THAMBUGALA RALALAGE KASUN MADHUSANKA",
+        "Last_Name_Th": "THAMBUGALA",
+        "First_Name_En": "LOKU THAMBUGALA RALALAGE KASUN MADHUSANKA",
+        "Last_Name_En": "THAMBUGALA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kasunisc@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "PAOLO",
+        "Last_Name_Th": "BERTOZZINI",
+        "First_Name_En": "PAOLO",
+        "Last_Name_En": "BERTOZZINI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "paolo@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "PETER",
+        "Last_Name_Th": "YU",
+        "First_Name_En": "PETER",
+        "Last_Name_En": "YU",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "peteryu@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ROLAND",
+        "Last_Name_Th": "PETRASCH",
+        "First_Name_En": "ROLAND",
+        "Last_Name_En": "PETRASCH",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "petrasch@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "SMITHA",
+        "Last_Name_Th": "KRISHNAN",
+        "First_Name_En": "SMITHA",
+        "Last_Name_En": "KRISHNAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "smitha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เกวลิน",
+        "Last_Name_Th": "อินทนนท์",
+        "First_Name_En": "KEWLIN",
+        "Last_Name_En": "INTHANON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "inthanon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เข็มชาติ",
+        "Last_Name_Th": "จันทะมาตร",
+        "First_Name_En": "เข็มชาติ",
+        "Last_Name_En": "จันทะมาตร",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ckhemcha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เจนจรีย์",
+        "Last_Name_Th": "อินอุทัย",
+        "First_Name_En": "JANEJAREE",
+        "Last_Name_En": "INUTHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jinuthai@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เจียรนัย",
+        "Last_Name_Th": "เล็กอุทัย",
+        "First_Name_En": "JEARRANAI",
+        "Last_Name_En": "LEKUTAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "lekuthai@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เด่นดวง",
+        "Last_Name_Th": "ประดับสุวรรณ",
+        "First_Name_En": "DENDUANG",
+        "Last_Name_En": "PRADUBSUWUN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "denduang@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เทพปัญญา",
+        "Last_Name_Th": "เจริญรัตน์",
+        "First_Name_En": "THEPPANYA",
+        "Last_Name_En": "CHAROENRAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "thep@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เทวัญ",
+        "Last_Name_Th": "เปลี่ยนสายทอง",
+        "First_Name_En": "TAEVAN",
+        "Last_Name_En": "PLEANSAITHONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "taewan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เบญจมาภรณ์",
+        "Last_Name_Th": "ตั้งนรวิชญ์",
+        "First_Name_En": "BENCHAMAPORN",
+        "Last_Name_En": "TUNGNORAWIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "bencha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เบญจมาศ",
+        "Last_Name_Th": "ตุลยนิติกุล",
+        "First_Name_En": "BENJAMAS",
+        "Last_Name_En": "TULYANITIKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "benjamas@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เบญจมาศ",
+        "Last_Name_Th": "คล้ายเครือญาติ",
+        "First_Name_En": "BENJAMAS",
+        "Last_Name_En": "KLAYKRUAYAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kbenjama@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เบญจรัตน์",
+        "Last_Name_Th": "เทพสงเคราะห์",
+        "First_Name_En": "BENJARAT",
+        "Last_Name_En": "TEPSONGKROH",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "benjarat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เบญญา",
+        "Last_Name_Th": "เชิดหิรัญกร",
+        "First_Name_En": "BENYA",
+        "Last_Name_En": "CHADHIRUNKORN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "benya@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เปรมปรียา",
+        "Last_Name_Th": "มณเฑียรทอง",
+        "First_Name_En": "PREMPREEYA",
+        "Last_Name_En": "MONTIENTHONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "prempree@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เปี่ยมสุข",
+        "Last_Name_Th": "สุวรรณกูฏ",
+        "First_Name_En": "PEAMSUK",
+        "Last_Name_En": "SUVARNNAKUTA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "speamsuk@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เพ็ญแข",
+        "Last_Name_Th": "ศิริวรรณ",
+        "First_Name_En": "PENKHAE",
+        "Last_Name_En": "SIRIWAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "spenkhae@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เพ็ญแข",
+        "Last_Name_Th": "เสนาจันทร์",
+        "First_Name_En": "PENKHAE",
+        "Last_Name_En": "SENACHAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ipenkhae@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เพ็ญวิสาข์",
+        "Last_Name_Th": "พิสิฏฐศักดิ์",
+        "First_Name_En": "PENWISA",
+        "Last_Name_En": "PISITSAK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "penwisa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เฟื่องฟูรัตน์",
+        "Last_Name_Th": "มุ่งทวีสินสุข",
+        "First_Name_En": "เฟื่องฟูรัตน์",
+        "Last_Name_En": "มุ่งทวีสินสุข",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "fofumuk9@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เยาวดี",
+        "Last_Name_Th": "เต็มธนาภัทร์",
+        "First_Name_En": "YAOWADEE",
+        "Last_Name_En": "TEMTANAPAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tyaowade@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เยาวทัศน์",
+        "Last_Name_Th": "บุญกล้า",
+        "First_Name_En": "YAOWATAT",
+        "Last_Name_En": "BOONGLA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "yaowatat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เยาวพา",
+        "Last_Name_Th": "จิระเกียรติกุล",
+        "First_Name_En": "YAOWAPA",
+        "Last_Name_En": "JIRAKIATTIKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "yjirakia@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เรวัตร",
+        "Last_Name_Th": "ใจสุทธิ",
+        "First_Name_En": "RAWAT",
+        "Last_Name_En": "JAISUTTI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jrawat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เสรณี",
+        "Last_Name_Th": "ศรีสุข",
+        "First_Name_En": "SERANEE",
+        "Last_Name_En": "SRISUK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "seranee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เสาวลักษณ์",
+        "Last_Name_Th": "วรรธนาภา",
+        "First_Name_En": "SAOWALUK",
+        "Last_Name_En": "WATANAPA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wsaowalu@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เอกรัฐ",
+        "Last_Name_Th": "พงษ์โอภาส",
+        "First_Name_En": "EKKARAT",
+        "Last_Name_En": "PONGOPHAS",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "e_pong@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "เอื้ออารี",
+        "Last_Name_Th": "บุญเพิ่ม",
+        "First_Name_En": "AUA-AREE",
+        "Last_Name_En": "BOONPERM",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "aua-aree@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "แพรว",
+        "Last_Name_Th": "เที่ยงพิมล",
+        "First_Name_En": "PRAEW",
+        "Last_Name_En": "THIENGPIMOL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "praewt@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "แสงดาว",
+        "Last_Name_Th": "วงค์สาย",
+        "First_Name_En": "SANGDAO",
+        "Last_Name_En": "WONGSAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sangdao@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "แสงหล้า",
+        "Last_Name_Th": "ชัยมงคล",
+        "First_Name_En": "SAENGLA",
+        "Last_Name_En": "CHAIMONGKOL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "csaengla@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "โรจน์",
+        "Last_Name_Th": "คุณเอนก",
+        "First_Name_En": "ROJ",
+        "Last_Name_En": "KHUN-ANAKE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "khunroj@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "โสพร",
+        "Last_Name_Th": "เสณีตันติกุล",
+        "First_Name_En": "SOPORN",
+        "Last_Name_En": "SENEETONTIKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sps862@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "โอภาส",
+        "Last_Name_Th": "โตจิระ",
+        "First_Name_En": "OPAS",
+        "Last_Name_En": "TOJIRA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "topas@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ไชยรัตน์",
+        "Last_Name_Th": "ไวยลาภ",
+        "First_Name_En": "ไชยรัตน์",
+        "Last_Name_En": "ไวยลาภ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "chairatw@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ไตรเทพ",
+        "Last_Name_Th": "วิชย์โกวิทเทน",
+        "First_Name_En": "TRITEP",
+        "Last_Name_En": "VICHKOVITTEN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "vtritep@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ไพวัณย์",
+        "Last_Name_Th": "ศรีนุกูล",
+        "First_Name_En": "ไพวัณย์",
+        "Last_Name_En": "ศรีนุกูล",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "mrpaiwan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กนกกาญจน์",
+        "Last_Name_Th": "หว้ามุข",
+        "First_Name_En": "กนกกาญจน์",
+        "Last_Name_En": "หว้ามุข",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kanogkan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กนกวรรณ",
+        "Last_Name_Th": "กนกสกุลเดช",
+        "First_Name_En": "KANOKWAN",
+        "Last_Name_En": "KANOKSAKUNDET",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kanokwan24@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กมล",
+        "Last_Name_Th": "บุษบา",
+        "First_Name_En": "KAMOL",
+        "Last_Name_En": "BUDSABA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "bkamon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กมล",
+        "Last_Name_Th": "เอี่ยมพนากิจ",
+        "First_Name_En": "KAMON",
+        "Last_Name_En": "AIEMPANAKIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "akamon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กมลทิพย์",
+        "Last_Name_Th": "เสรีนนท์ชัย",
+        "First_Name_En": "KAMONTHIP",
+        "Last_Name_En": "SEREENONCHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "scksc@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กรรณิการ์",
+        "Last_Name_Th": "วงศ์ไทย",
+        "First_Name_En": "กรรณิการ์",
+        "Last_Name_En": "วงศ์ไทย",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wkannika@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กฤตคม",
+        "Last_Name_Th": "ศรีจิรานนท์",
+        "First_Name_En": "KRITTAKOM",
+        "Last_Name_En": "SRIJIRANON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "non_krit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กฤติยา",
+        "Last_Name_Th": "เขื่อนเพชร",
+        "First_Name_En": "KRITTIYA",
+        "Last_Name_En": "KHUENPET",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "krittiya23@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กษิดิศ",
+        "Last_Name_Th": "ชาญเชี่ยว",
+        "First_Name_En": "KASIDIT",
+        "Last_Name_En": "CHANCHIO",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ckasidit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กัลยา",
+        "Last_Name_Th": "เอี้ยประเสริฐศักดิ์",
+        "First_Name_En": "KALYA",
+        "Last_Name_En": "AEAPRASERTSAK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "keaipra@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กาญจนา",
+        "Last_Name_Th": "ทองเต็ม",
+        "First_Name_En": "กาญจนา",
+        "Last_Name_En": "ทองเต็ม",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tkanjana@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กานต์ณัฐ",
+        "Last_Name_Th": "ณ บางช้าง",
+        "First_Name_En": "กานต์ณัฐ",
+        "Last_Name_En": "ณ บางช้าง",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kannat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กานต์พิชชา",
+        "Last_Name_Th": "ตั้งตน",
+        "First_Name_En": "กานต์พิชชา",
+        "Last_Name_En": "ตั้งตน",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tangty33@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กิตติพงศ์",
+        "Last_Name_Th": "ไชยนอก",
+        "First_Name_En": "KITTIPONG",
+        "Last_Name_En": "CHAINOK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kc@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กิตติพัฒน์",
+        "Last_Name_Th": "มาลากิจ",
+        "First_Name_En": "KITTIPAT",
+        "Last_Name_En": "MALAKIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kmalakit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กิตติพัฒน์",
+        "Last_Name_Th": "อุโฆษกิจ",
+        "First_Name_En": "KITTIPAT",
+        "Last_Name_En": "UKOTKIJ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ku@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "กุศล",
+        "Last_Name_Th": "ประกอบการ",
+        "First_Name_En": "KUSOL",
+        "Last_Name_En": "PRAKOBKARN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kuson@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ขจี",
+        "Last_Name_Th": "จันทรขจร",
+        "First_Name_En": "KHAJEE",
+        "Last_Name_En": "JUNTARAKHAJORN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jkhajee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "คณิศร",
+        "Last_Name_Th": "ก้อนทอง",
+        "First_Name_En": "CANISORN",
+        "Last_Name_En": "KONTHONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "canisorn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "คนึงนิจ",
+        "Last_Name_Th": "เสรีวงษ์",
+        "First_Name_En": "KANUNGNIT",
+        "Last_Name_En": "SEREEWONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kanungni@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ครรชิต",
+        "Last_Name_Th": "วิริยาพันธ์",
+        "First_Name_En": "ครรชิต",
+        "Last_Name_En": "วิริยาพันธ์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "binly@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "คัทลียา",
+        "Last_Name_Th": "เพ็ชรสิงห์",
+        "First_Name_En": "CATTLEYA",
+        "Last_Name_En": "PETCHSING",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "cattleya@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จรินทร์ทิพย์",
+        "Last_Name_Th": "เฮงคราวิทย์",
+        "First_Name_En": "CHARINTHIP",
+        "Last_Name_En": "HENGKRAWIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "hcharint@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จารญา",
+        "Last_Name_Th": "เจริญพงศ์",
+        "First_Name_En": "จารญา",
+        "Last_Name_En": "เจริญพงศ์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jjaraya@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จิรดา",
+        "Last_Name_Th": "สิงขรรัตน์",
+        "First_Name_En": "JIRADA",
+        "Last_Name_En": "SINGKHONRAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jirada@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จิรภา",
+        "Last_Name_Th": "ตั้งศรีตระกูล",
+        "First_Name_En": "JIRAPA",
+        "Last_Name_En": "TANGSRITRAKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tjirapa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จิรวัฒน์",
+        "Last_Name_Th": "รุ่งเลิศตระกูลชัย",
+        "First_Name_En": "JIRAWAT",
+        "Last_Name_En": "RUNGLERTTRAKOOLCHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rjirawat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จิราพร",
+        "Last_Name_Th": "อรุณพานิชเลิศ",
+        "First_Name_En": "JIRAPORN",
+        "Last_Name_En": "ARUNPANICHLERT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jira_550@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จิรารัตน์",
+        "Last_Name_Th": "แก้ววิมล",
+        "First_Name_En": "จิรารัตน์",
+        "Last_Name_En": "แก้ววิมล",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kjirarat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จีราพัสฐ์",
+        "Last_Name_Th": "สีแจ่ม",
+        "First_Name_En": "JIRAPAST",
+        "Last_Name_En": "SICHAEM",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jirapast@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จุฑาศินี",
+        "Last_Name_Th": "ธัญปราณีตกุล",
+        "First_Name_En": "JUTHASINEE",
+        "Last_Name_En": "THANYAPRANEEDKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tj@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จุมพฏ",
+        "Last_Name_Th": "อินตระกูล",
+        "First_Name_En": "JUMPOT",
+        "Last_Name_En": "INTRAKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jumpotin@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "จุรีมาศ",
+        "Last_Name_Th": "วังคีรี",
+        "First_Name_En": "JUREEMART",
+        "Last_Name_En": "WANGKEEREE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "juwang@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ฉันชนก",
+        "Last_Name_Th": "โหยหวล",
+        "First_Name_En": "ฉันชนก",
+        "Last_Name_En": "โหยหวล",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wow-08@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ชนัญ",
+        "Last_Name_Th": "ผลประไพ",
+        "First_Name_En": "CHANAN",
+        "Last_Name_En": "PHONPRAPAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "chanan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ชนาธิป",
+        "Last_Name_Th": "สามารถ",
+        "First_Name_En": "CHANATIP",
+        "Last_Name_En": "SAMART",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "chanatip@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ชนิตโชต",
+        "Last_Name_Th": "ปิยพิทยานันต์",
+        "First_Name_En": "CHANITCHOTE",
+        "Last_Name_En": "PIYAPITTAYANAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "chanit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ชนินาถ",
+        "Last_Name_Th": "บัวเขียวอ่อน",
+        "First_Name_En": "CHANINART",
+        "Last_Name_En": "BUAKEAW-ON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "chaniam@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ชยธร",
+        "Last_Name_Th": "วนาสวัสดิ์",
+        "First_Name_En": "SHAYATHORN",
+        "Last_Name_En": "WANASAWAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "shayathorn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ชรินทร์",
+        "Last_Name_Th": "ค้าข้าว",
+        "First_Name_En": "CHARIN",
+        "Last_Name_En": "KHAKAW",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kcharin@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ชัยณรงค์",
+        "Last_Name_Th": "เกษามูล",
+        "First_Name_En": "CHAINARONG",
+        "Last_Name_En": "KESAMOON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "chai_kes@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ชิราวุฒิ",
+        "Last_Name_Th": "เพชรเย็น",
+        "First_Name_En": "CHIRAVOOT",
+        "Last_Name_En": "PECHYEN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "cpechyen@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ชุมพล",
+        "Last_Name_Th": "วิชิตธนาคม",
+        "First_Name_En": "CHUMPON",
+        "Last_Name_En": "WICHITTANAKOM",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wchumpon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ญาณิศา",
+        "Last_Name_Th": "ชัยยา",
+        "First_Name_En": "YANISA",
+        "Last_Name_En": "CHAIYA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "yanisa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ฐาปนา",
+        "Last_Name_Th": "บุญชู",
+        "First_Name_En": "THAPANA",
+        "Last_Name_En": "BOONCHOO",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "thapanab@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ฐิติพร",
+        "Last_Name_Th": "โสมนาม",
+        "First_Name_En": "ฐิติพร",
+        "Last_Name_En": "โสมนาม",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "angoonnn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ฐิติรัตน์",
+        "Last_Name_Th": "อินทร์ประสิทธิ์",
+        "First_Name_En": "THITIRAT",
+        "Last_Name_En": "INPRASIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "thi_inp@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ฑัณธิดา",
+        "Last_Name_Th": "งามขำ",
+        "First_Name_En": "THUNTIDA",
+        "Last_Name_En": "NGAMKHAM",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "thuntida@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ณฐินี",
+        "Last_Name_Th": "สุวรรณสิงห์",
+        "First_Name_En": "NATINEE",
+        "Last_Name_En": "SUVANASINGHA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "snatinee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ณัฐคงคา",
+        "Last_Name_Th": "ศิริธร",
+        "First_Name_En": "ณัฐคงคา",
+        "Last_Name_En": "ศิริธร",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "snatthak@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ณัฐฐา",
+        "Last_Name_Th": "แสงนรินทร์ เหมจินดา",
+        "First_Name_En": "NUTTA",
+        "Last_Name_En": "SANGNARIN HAMJINDA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nutta_sh@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ณัฐธนนท์",
+        "Last_Name_Th": "หงส์วริทธิ์ธร",
+        "First_Name_En": "NUTTANONT",
+        "Last_Name_En": "HONGWARITTONN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nuttanon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ณัฐพล",
+        "Last_Name_Th": "นาคปฐมกุล",
+        "First_Name_En": "NATTHAPON",
+        "Last_Name_En": "NAKPATHOMKUN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nnakpath@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ณัฐพล",
+        "Last_Name_Th": "จันทร์แก้ว",
+        "First_Name_En": "NUTTHAPOL",
+        "Last_Name_En": "JUNKEAW",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jnutthap@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ณัฐยา",
+        "Last_Name_Th": "วุฒิกานนท์",
+        "First_Name_En": "NATTAYA",
+        "Last_Name_En": "VUTHIGANOND",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pnattaya@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ณัฐสุดา",
+        "Last_Name_Th": "เกาทัณฑ์ทอง",
+        "First_Name_En": "NATSUDA",
+        "Last_Name_En": "KAOTHANTHONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "natsuda@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ณัฐา",
+        "Last_Name_Th": "จริยภมรกุร",
+        "First_Name_En": "NATTHA",
+        "Last_Name_En": "JARIYAPAMORNKOON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jnattha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ณิชยาภรณ์",
+        "Last_Name_Th": "มีเดช",
+        "First_Name_En": "NICHAYAPORN",
+        "Last_Name_En": "SANGRAWEE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "snichaya@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ดรุณี",
+        "Last_Name_Th": "ศรีชนะ",
+        "First_Name_En": "DARUNEE",
+        "Last_Name_En": "SRICHANA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "dsr@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ดวงเดือน",
+        "Last_Name_Th": "ไชยเวช",
+        "First_Name_En": "ดวงเดือน",
+        "Last_Name_En": "ไชยเวช",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "dchaiyav@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ดวงแก้ว",
+        "Last_Name_Th": "สวามิภักดิ์",
+        "First_Name_En": "DUANGKAEW",
+        "Last_Name_En": "SAWAMIPAK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sduangka@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ดุสิต",
+        "Last_Name_Th": "อธินุวัฒน์",
+        "First_Name_En": "DUSIT",
+        "Last_Name_En": "ATHINUWAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "adusit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ตวง",
+        "Last_Name_Th": "เธียรธนู",
+        "First_Name_En": "TUANG",
+        "Last_Name_En": "DHEANDHANOO",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tuangd@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ทรงศักดิ์",
+        "Last_Name_Th": "รองวิริยะพานิช",
+        "First_Name_En": "SONGSAKDI",
+        "Last_Name_En": "RONGVIRIYAPANISH",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rongviri@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ทวี",
+        "Last_Name_Th": "ฉิมอ้อย",
+        "First_Name_En": "TAWEE",
+        "Last_Name_En": "CHIMOYE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tchimoye@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ทศพร",
+        "Last_Name_Th": "อังสาชน",
+        "First_Name_En": "TOSAPORN",
+        "Last_Name_En": "ANGSACHON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tossang@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ทิพย์สุดา",
+        "Last_Name_Th": "ไชยไพบูลย์วงศ์",
+        "First_Name_En": "TIPSUDA",
+        "Last_Name_En": "CHAIPIBOONWONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tchaipib@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ทิวธวัฒ",
+        "Last_Name_Th": "นาพิรุณ",
+        "First_Name_En": "TIWTAWAT",
+        "Last_Name_En": "NAPIROON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "napiroon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธเนศ",
+        "Last_Name_Th": "วีระศิริ",
+        "First_Name_En": "THANES",
+        "Last_Name_En": "VEERASIRI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "thanes@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธนัช",
+        "Last_Name_Th": "จิรวารศิริกุล",
+        "First_Name_En": "TANAT",
+        "Last_Name_En": "JIRAVANSIRIKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tanat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธนัชพร",
+        "Last_Name_Th": "ดวงจันทร์",
+        "First_Name_En": "ธนัชพร",
+        "Last_Name_En": "ดวงจันทร์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "jthanatp@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธนัชพรรณ",
+        "Last_Name_Th": "เพ็ชรรัตน์",
+        "First_Name_En": "ธนัชพรรณ",
+        "Last_Name_En": "เพ็ชรรัตน์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "thanatch@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธนากรณ์",
+        "Last_Name_Th": "ศักดิ์ชัยเจริญกุล",
+        "First_Name_En": "THANAKORN",
+        "Last_Name_En": "SAKCHAICHAROENKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "stanakor@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธนาธร",
+        "Last_Name_Th": "ทะนานทอง",
+        "First_Name_En": "ธนาธร",
+        "Last_Name_En": "ทะนานทอง",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tanatorn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธนาพล",
+        "Last_Name_Th": "ตันติสัตยกุล",
+        "First_Name_En": "THANAPOL",
+        "Last_Name_En": "TANTISATTAYAKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tthanapol@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธนิกา",
+        "Last_Name_Th": "หุตะกมล",
+        "First_Name_En": "THANIKA",
+        "Last_Name_En": "HUTAKAMOL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "thanika@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธนิท",
+        "Last_Name_Th": "เรืองรุ่งชัยกุล",
+        "First_Name_En": "TANIT",
+        "Last_Name_En": "RUANGRUNGCHAIKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rtanit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธฤษวรรณ",
+        "Last_Name_Th": "ไตรจิตต์",
+        "First_Name_En": "THRISSAWAN",
+        "Last_Name_En": "TRAIJITT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "traijitt@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธวิกานต์",
+        "Last_Name_Th": "ตรียะประเสริฐ",
+        "First_Name_En": "TAWIKAN",
+        "Last_Name_En": "TREEYAPRASERT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tawikan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธัญพิสิษฐ์",
+        "Last_Name_Th": "พวงจิก",
+        "First_Name_En": "THANPISIT",
+        "Last_Name_En": "PHUANGCHIK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pthanpis@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธัญวรัชญ์",
+        "Last_Name_Th": "บุตรสาร",
+        "First_Name_En": "THANWARAT",
+        "Last_Name_En": "BUTSAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "bthanwar@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธันย์ชนก",
+        "Last_Name_Th": "บุญชอบ",
+        "First_Name_En": "ธันย์ชนก",
+        "Last_Name_En": "บุญชอบ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "thancha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธารินี",
+        "Last_Name_Th": "มิโนะอุระ",
+        "First_Name_En": "TARINEE",
+        "Last_Name_En": "MINOURA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tarinee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธีรวัฒนา",
+        "Last_Name_Th": "ภาระมาตย์",
+        "First_Name_En": "THIRAWATTHANA",
+        "Last_Name_En": "PHARAMAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pharamat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธีระชัย",
+        "Last_Name_Th": "ธนานันต์",
+        "First_Name_En": "THEERACHAI",
+        "Last_Name_En": "THANANANTA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "thana@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ธีระวัฒน์",
+        "Last_Name_Th": "สิมมาจันทร์",
+        "First_Name_En": "TEERAWAT",
+        "Last_Name_En": "SIMMACHAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "strawat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นที",
+        "Last_Name_Th": "ศิริสิทธิ์",
+        "First_Name_En": "NATEE",
+        "Last_Name_En": "SIRISIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "snatee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นพพร",
+        "Last_Name_Th": "พูลยรัตน์",
+        "First_Name_En": "NOPPORN",
+        "Last_Name_En": "POOLYARAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nop096@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นพรัตน์",
+        "Last_Name_Th": "พฤกษ์ทวัศักดิ์",
+        "First_Name_En": "NOPPARAT",
+        "Last_Name_En": "PLUCKTAVEESAK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nopparat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นภัสวรรณ",
+        "Last_Name_Th": "เขื่อนแก้ว",
+        "First_Name_En": "นภัสวรรณ",
+        "Last_Name_En": "เขื่อนแก้ว",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "napaview@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นภาพร",
+        "Last_Name_Th": "ยังวิเศษ",
+        "First_Name_En": "NAPAPORN",
+        "Last_Name_En": "YOUNGVISES",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "napaporn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นริศรา",
+        "Last_Name_Th": "คล้ายหิรัญ",
+        "First_Name_En": "นริศรา",
+        "Last_Name_En": "คล้ายหิรัญ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "knarissa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นฤมล",
+        "Last_Name_Th": "พินเนียม ชนะไพฑูรย์",
+        "First_Name_En": "NARUEMON",
+        "Last_Name_En": "PINNIAM CHANAPAITOON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "naruemon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นวลกมล",
+        "Last_Name_Th": "อำนวยสิน",
+        "First_Name_En": "NUANKAMOL",
+        "Last_Name_En": "AMNUAYSIN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nabt@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นวลักษณ์",
+        "Last_Name_Th": "ทองจับ",
+        "First_Name_En": "NAWALAX",
+        "Last_Name_En": "THONGJUB",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tnawalax@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นันทพร",
+        "Last_Name_Th": "คงคะจันทร์",
+        "First_Name_En": "NUNTAPORN",
+        "Last_Name_En": "KONGKAJUN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "n-kongkj@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นันทพัทธ์",
+        "Last_Name_Th": "ตระกูลไตรพฤกษ์",
+        "First_Name_En": "NANTAPATH",
+        "Last_Name_En": "TRAKULTRAIPRUK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ntrakul@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นันทวัฒน์",
+        "Last_Name_Th": "วรรณฤทธิ์",
+        "First_Name_En": "นันทวัฒน์",
+        "Last_Name_En": "วรรณฤทธิ์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nwan0110@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นิฉา",
+        "Last_Name_Th": "แก้วหาวงษ์",
+        "First_Name_En": "NICHA",
+        "Last_Name_En": "KAEWHAWONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nicha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นิชานาถ",
+        "Last_Name_Th": "ผลมะขาม",
+        "First_Name_En": "นิชานาถ",
+        "Last_Name_En": "ผลมะขาม",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pkunnika@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นิตยา",
+        "Last_Name_Th": "วัจนะภูมิ",
+        "First_Name_En": "NITTAYA",
+        "Last_Name_En": "VAJANAPOOM",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nvajanap@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นิติ",
+        "Last_Name_Th": "พานิชเกษม",
+        "First_Name_En": "นิติ",
+        "Last_Name_En": "พานิชเกษม",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pniti@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นิภารัตน์",
+        "Last_Name_Th": "ศรีธเรศ",
+        "First_Name_En": "NIPARAT",
+        "Last_Name_En": "SRITHARET",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sniparat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นิรมล",
+        "Last_Name_Th": "ศากยวงศ์",
+        "First_Name_En": "NIRAMOL",
+        "Last_Name_En": "SAKKAYAWONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "niramol@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นิรัช",
+        "Last_Name_Th": "ร่มเย็น",
+        "First_Name_En": "นิรัช",
+        "Last_Name_En": "ร่มเย็น",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nirach@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นิศาชล",
+        "Last_Name_Th": "งามประเสริฐสิทธิ์",
+        "First_Name_En": "NISACHON",
+        "Last_Name_En": "NGAMPRASERTSIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nisachon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นุชจรินทร์",
+        "Last_Name_Th": "อินต๊ะหล้า",
+        "First_Name_En": "NUCHJARIN",
+        "Last_Name_En": "INTALAR",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "njrin@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "นุชชากร",
+        "Last_Name_Th": "งามเสาวรส",
+        "First_Name_En": "NUTCHAKORN",
+        "Last_Name_En": "NGAMSAOWALOS",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nnuchako@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "บรรจงค์ศักดิ์",
+        "Last_Name_Th": "พิทักษ์วงศ์",
+        "First_Name_En": "บรรจงค์ศักดิ์",
+        "Last_Name_En": "พิทักษ์วงศ์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "banjong@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "บวร",
+        "Last_Name_Th": "คูหิรัญ",
+        "First_Name_En": "BORWORN",
+        "Last_Name_En": "KHUHIRUN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "borwornk@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "บัญญัติ",
+        "Last_Name_Th": "สร้อยแสง",
+        "First_Name_En": "BANYAT",
+        "Last_Name_En": "SROYSANG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "banyat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "บัณฑิต",
+        "Last_Name_Th": "อนุรักษ์",
+        "First_Name_En": "BUNDIT",
+        "Last_Name_En": "ANURUGSA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "bunurugsa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "บุญช่วย",
+        "Last_Name_Th": "สุนทรวรจิต",
+        "First_Name_En": "BOONCHOY",
+        "Last_Name_En": "SOONTORNWORAJIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sbooncho@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "บุญพิทักษ์",
+        "Last_Name_Th": "งามวัฒนากุล",
+        "First_Name_En": "BOONPITHAK",
+        "Last_Name_En": "NGAMWATTHANAKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "boonpith@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "บุญฤทธิ์",
+        "Last_Name_Th": "ชูประดิษฐ์",
+        "First_Name_En": "BOONYARIT",
+        "Last_Name_En": "CHOOPRADIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "boonrit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "บุปผา",
+        "Last_Name_Th": "ไกรสัย",
+        "First_Name_En": "BOOPPA",
+        "Last_Name_En": "KRASAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "booppa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "บุปผา",
+        "Last_Name_Th": "เพชรรัตน์",
+        "First_Name_En": "BOOPPA",
+        "Last_Name_En": "PETCHARAD",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "argiope2@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "บุศราภา",
+        "Last_Name_Th": "ลีละวัฒน์",
+        "First_Name_En": "BOOTSRAPA",
+        "Last_Name_En": "LEELAWAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "leelawat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปกป้อง",
+        "Last_Name_Th": "ส่องเมือง",
+        "First_Name_En": "POKPONG",
+        "Last_Name_En": "SONGMUANG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pokpongs@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปกรณ์",
+        "Last_Name_Th": "ปรีชาบูรณะ",
+        "First_Name_En": "PAKORN",
+        "Last_Name_En": "PREECHABURANA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ppakorn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปกรณ์",
+        "Last_Name_Th": "ลี้สุทธิพรชัย",
+        "First_Name_En": "PAKORN",
+        "Last_Name_En": "LEESUTTHIPORNCHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pakornl@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปกรณ์",
+        "Last_Name_Th": "แววสว่างวงศ์",
+        "First_Name_En": "PAKORN",
+        "Last_Name_En": "WAEWSAWANGWONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wpakorn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปรเมศวร์",
+        "Last_Name_Th": "วงศ์จอม",
+        "First_Name_En": "PORAMED",
+        "Last_Name_En": "WONGJOM",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pwongjom@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ประไพ",
+        "Last_Name_Th": "เทียนเทพ",
+        "First_Name_En": "ประไพ",
+        "Last_Name_En": "เทียนเทพ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "prapai-l@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ประทุมทิพย์",
+        "Last_Name_Th": "ชั้วนาค",
+        "First_Name_En": "ประทุมทิพย์",
+        "Last_Name_En": "ชั้วนาค",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "cprathum@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ประภาพร",
+        "Last_Name_Th": "รัตนธำรง",
+        "First_Name_En": "PRAPAPORN",
+        "Last_Name_En": "RATTANATAMRONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rattanat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ประภาศรี",
+        "Last_Name_Th": "เทพรักษา",
+        "First_Name_En": "PRAPASRI",
+        "Last_Name_En": "THEPRUGSA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "theprugs@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปรัชญา",
+        "Last_Name_Th": "บุญประเสริฐ",
+        "First_Name_En": "PRACHYA",
+        "Last_Name_En": "BOONPRASERT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "prachya@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปราโมทย์",
+        "Last_Name_Th": "เลาเก็ง",
+        "First_Name_En": "ปราโมทย์",
+        "Last_Name_En": "เลาเก็ง",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pramote@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปรียาภรณ์",
+        "Last_Name_Th": "เรียนแพง",
+        "First_Name_En": "PREEYAPORN",
+        "Last_Name_En": "REANPANG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "preeyarp@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปานนท์",
+        "Last_Name_Th": "ลาชโรจน์",
+        "First_Name_En": "PANON",
+        "Last_Name_En": "LATCHAROTE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "panon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปารวัณ",
+        "Last_Name_Th": "ไพจิตรรัตนะ",
+        "First_Name_En": "PARAWAN",
+        "Last_Name_En": "PIJITRATTANA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "parawanp@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปาริยา",
+        "Last_Name_Th": "ณ นคร",
+        "First_Name_En": "PARIYA",
+        "Last_Name_En": "NA NAKORN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pariya@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปิยานนทน์",
+        "Last_Name_Th": "หาพุทธา",
+        "First_Name_En": "PIYANON",
+        "Last_Name_En": "HAPUTTA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "piyanonk@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ปุณชญา",
+        "Last_Name_Th": "พัฒนางกูร",
+        "First_Name_En": "POONCHAYAR",
+        "Last_Name_En": "PATTHANANGKOOR",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pooncha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พงศกรณ์",
+        "Last_Name_Th": "วิจิตเวชไพศาล",
+        "First_Name_En": "PONGSAGON",
+        "Last_Name_En": "VICHITVEJPAISAL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pvichit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พนิชากรณ์",
+        "Last_Name_Th": "ใจยงค์",
+        "First_Name_En": "PANICHAKORN",
+        "Last_Name_En": "JAIYONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "scpj@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พยุงศักดิ์",
+        "Last_Name_Th": "เกษมสำราญ",
+        "First_Name_En": "PAYUNGSAK",
+        "Last_Name_En": "KASEMSUMRAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "payungsa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พรกมล",
+        "Last_Name_Th": "นาละกาญจน์",
+        "First_Name_En": "PRONKAMON",
+        "Last_Name_En": "NALAKARN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ponkamon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พรชัย",
+        "Last_Name_Th": "หาระโคตร",
+        "First_Name_En": "BHORNCHAI",
+        "Last_Name_En": "HARAKOTR",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "harakotr@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พรทิพย์",
+        "Last_Name_Th": "บุญมาก",
+        "First_Name_En": "PORNTIP",
+        "Last_Name_En": "BOONMAK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "mpornthi@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พรทิพย์",
+        "Last_Name_Th": "ราษฎร์เจริญ",
+        "First_Name_En": "พรทิพย์",
+        "Last_Name_En": "ราษฎร์เจริญ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "prontip@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พรรณิภา",
+        "Last_Name_Th": "เทพามาตย์",
+        "First_Name_En": "PANNIPA",
+        "Last_Name_En": "TEPAMAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pannipa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พฤกษ์",
+        "Last_Name_Th": "ชุติมานุกูล",
+        "First_Name_En": "PREUK",
+        "Last_Name_En": "CHUTIMANUKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "preuk59@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พักตร์เพ็ญ",
+        "Last_Name_Th": "ภูมิพันธ์",
+        "First_Name_En": "พักตร์เพ็ญ",
+        "Last_Name_En": "ภูมิพันธ์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "phakpen@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พัชรัตน์",
+        "Last_Name_Th": "มีมะโน",
+        "First_Name_En": "พัชรัตน์",
+        "Last_Name_En": "มีมะโน",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "patchrat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พัชรี",
+        "Last_Name_Th": "ประทุมพงษ์",
+        "First_Name_En": "PATCHAREE",
+        "Last_Name_En": "PRATUMPONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pratumpo@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พัทธ์ชนก",
+        "Last_Name_Th": "ศรีสุรเดชชัย",
+        "First_Name_En": "PATCHANOK",
+        "Last_Name_En": "SRISURADETCHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "spatchan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พิพัฒน์",
+        "Last_Name_Th": "สมภาร",
+        "First_Name_En": "PIPAT",
+        "Last_Name_En": "SOMPRAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "somparn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พิมพ์ภาวรรณ",
+        "Last_Name_Th": "อินฟ้าแสง",
+        "First_Name_En": "พิมพ์ภาวรรณ",
+        "Last_Name_En": "อินฟ้าแสง",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pimpawan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พิรชา",
+        "Last_Name_Th": "หว่างกลาง",
+        "First_Name_En": "พิรชา",
+        "Last_Name_En": "หว่างกลาง",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wpiracha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พิศุทธิ์สรัล",
+        "Last_Name_Th": "ชิติโชติปัญญา",
+        "First_Name_En": "PISUTSARAN",
+        "Last_Name_En": "CHITICHOTPANYA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tornsiri@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พิสมัย",
+        "Last_Name_Th": "โพธิ์ศรี",
+        "First_Name_En": "พิสมัย",
+        "Last_Name_En": "โพธิ์ศรี",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pphitsam@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พีระ",
+        "Last_Name_Th": "อัจฉราเสถียร",
+        "First_Name_En": "PEERA",
+        "Last_Name_En": "ACHARASATIAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "peera@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พีระศักดิ์",
+        "Last_Name_Th": "เภาประเสริฐ",
+        "First_Name_En": "PEERASAK",
+        "Last_Name_En": "PAOPRASERT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "peerasak@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "พีระศักดิ์",
+        "Last_Name_Th": "อินทรไพบูลย์",
+        "First_Name_En": "PEERASAK",
+        "Last_Name_En": "INTARAPAIBOON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ipeerasa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภณสุทธิ์",
+        "Last_Name_Th": "สุทธิประการ",
+        "First_Name_En": "PANASUDDHI",
+        "Last_Name_En": "SUDDHIPRAKARN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "panasudd@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภทรวรรณ",
+        "Last_Name_Th": "แสงนวกิจ",
+        "First_Name_En": "PATARAWAN",
+        "Last_Name_En": "SANGNAWAKIJ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "spataraw@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภรณี",
+        "Last_Name_Th": "อุทโยภาศ",
+        "First_Name_En": "PORANEE",
+        "Last_Name_En": "UTAYOPAS",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "poranee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภัทรเดช",
+        "Last_Name_Th": "ขวัญอยู่",
+        "First_Name_En": "ภัทรเดช",
+        "Last_Name_En": "ขวัญอยู่",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pdk@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภัทรพร",
+        "Last_Name_Th": "คุ้มภัย",
+        "First_Name_En": "PHATARAPORN",
+        "Last_Name_En": "KHUMPHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "talent48@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภัทราจิตร",
+        "Last_Name_Th": "พิกุล",
+        "First_Name_En": "PATTRACHIT",
+        "Last_Name_En": "PIKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nuiacsc@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภัทิรา",
+        "Last_Name_Th": "สุดเลิศ",
+        "First_Name_En": "PHATTHIRA",
+        "Last_Name_En": "SUTLOET",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "psutloet@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภาณุมาศ",
+        "Last_Name_Th": "ฤทธิไชย",
+        "First_Name_En": "PANUMART",
+        "Last_Name_En": "RITHICHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "panumart@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภานุมาศ",
+        "Last_Name_Th": "ทองอยู่",
+        "First_Name_En": "PANUMART",
+        "Last_Name_En": "THONGYOO",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tpanumas@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภานุวัฒน์",
+        "Last_Name_Th": "ละครไชย",
+        "First_Name_En": "PANUVUTH",
+        "Last_Name_En": "LAKHONCHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "lpanuvut@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภารดี",
+        "Last_Name_Th": "ช่วยบำรุง",
+        "First_Name_En": "PARADEE",
+        "Last_Name_En": "CHUAYBAMROONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "paradee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภาวิณี พรศาลนุวัฒน์",
+        "Last_Name_Th": "ตันอริยกุล",
+        "First_Name_En": "ภาวิณี พรศาลนุวัฒน์",
+        "Last_Name_En": "ตันอริยกุล",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "drjasmin@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภาวิต",
+        "Last_Name_Th": "พุฒประเสริฐ",
+        "First_Name_En": "PAWIT",
+        "Last_Name_En": "PUTTAPRASERT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "phawit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภูภิภัทร",
+        "Last_Name_Th": "ใจแก้ว",
+        "First_Name_En": "PHUPHIPHAT",
+        "Last_Name_En": "JAIKAEW",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pupipat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภูมิ",
+        "Last_Name_Th": "ทิพย์อาภากุล",
+        "First_Name_En": "POOM",
+        "Last_Name_En": "THIPARPAKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "puwis_t@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ภูมินาถ",
+        "Last_Name_Th": "ชื่นชมรัตน์",
+        "First_Name_En": "PUMNAT",
+        "Last_Name_En": "CHUENCHOURAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "cpumnat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "มณฑิรา",
+        "Last_Name_Th": "ดวงสาพล",
+        "First_Name_En": "มณฑิรา",
+        "Last_Name_En": "ดวงสาพล",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "dmonthira@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "มนวรรัตน์",
+        "Last_Name_Th": "ผ่องไพบูลย์",
+        "First_Name_En": "MONVORATH",
+        "Last_Name_En": "PHONGPAIBUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pmonvora@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "มนู",
+        "Last_Name_Th": "เฟื่องฟุ้ง",
+        "First_Name_En": "MANU",
+        "Last_Name_En": "FUANGFOONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "fmanu@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "มาโนชย์",
+        "Last_Name_Th": "ศรีนางแย้ม",
+        "First_Name_En": "MANOCH",
+        "Last_Name_En": "SRINANGYAM",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "srinangy@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "มารุต",
+        "Last_Name_Th": "สุขสมจิตร",
+        "First_Name_En": "MARUT",
+        "Last_Name_En": "SUKSOMJIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "marut37@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "มาลัย",
+        "Last_Name_Th": "แก้วกลิ่น",
+        "First_Name_En": "MALAI",
+        "Last_Name_En": "KAEWKLIN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "malaikk@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "มาลี",
+        "Last_Name_Th": "ชอบธรรม",
+        "First_Name_En": "มาลี",
+        "Last_Name_En": "ชอบธรรม",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "cmalee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ยงศักดิ์",
+        "Last_Name_Th": "ขจรผดุงกิตติ",
+        "First_Name_En": "YONGSAK",
+        "Last_Name_En": "KAJOHNPADUNGKITTI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "yongsakk@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ยิ่งยศ",
+        "Last_Name_Th": "อินฟ้าแสง",
+        "First_Name_En": "YINGYOT",
+        "Last_Name_En": "INFAHSAENG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "yingyot@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ยุทธนา",
+        "Last_Name_Th": "ตันติรุ่งโรจน์ชัย",
+        "First_Name_En": "YUTHANA",
+        "Last_Name_En": "TANTIRUNGROTECHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "yuthana_t@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ยุพิน",
+        "Last_Name_Th": "ไทยรัตนานนท์",
+        "First_Name_En": "YUPIN",
+        "Last_Name_En": "THAIRATANANON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "yupin@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รชา",
+        "Last_Name_Th": "เทพษร",
+        "First_Name_En": "RACHA",
+        "Last_Name_En": "TEPSORN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rtepsorn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รมิดา",
+        "Last_Name_Th": "ศรีเหรา",
+        "First_Name_En": "RAMIDHA",
+        "Last_Name_En": "SRIHERA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sramidha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รวมพร",
+        "Last_Name_Th": "สิทธิมงคล",
+        "First_Name_En": "ROUMPORN",
+        "Last_Name_En": "SITTIMONGKOL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sroumpor@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รวินทร์",
+        "Last_Name_Th": "ยังน้อย",
+        "First_Name_En": "RAWIN",
+        "Last_Name_En": "YOUNGNOI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "yrawin@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รสสุคนธ์",
+        "Last_Name_Th": "ทองวิเชียร",
+        "First_Name_En": "ROSSUKON",
+        "Last_Name_En": "THONGWICHIAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rossukont@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ระเบียบ",
+        "Last_Name_Th": "สวนพันธุ์",
+        "First_Name_En": "ระเบียบ",
+        "Last_Name_En": "สวนพันธุ์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rabeab@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รัชฎา",
+        "Last_Name_Th": "คงคะจันทร์",
+        "First_Name_En": "RACHADA",
+        "Last_Name_En": "KONGKACHANDRA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "krachada@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รัชต",
+        "Last_Name_Th": "พีชวณิชย์",
+        "First_Name_En": "RACHATA",
+        "Last_Name_En": "PEACHAVANICH",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rpeach@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รัฐดา",
+        "Last_Name_Th": "จันทร์กลั่น",
+        "First_Name_En": "RUTHADA",
+        "Last_Name_En": "CHANKLAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "chanklan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รัตนา",
+        "Last_Name_Th": "เลิศสุวรรณศรี",
+        "First_Name_En": "RATTANA",
+        "Last_Name_En": "LERDSUWANSRI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rattanal@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รุ่งทิพย์",
+        "Last_Name_Th": "ชาติสวัสดิ์",
+        "First_Name_En": "รุ่งทิพย์",
+        "Last_Name_En": "ชาติสวัสดิ์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "satsawat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "รุจิภาส",
+        "Last_Name_Th": "บวรทวีปัญญา",
+        "First_Name_En": "RUCHIPAS",
+        "Last_Name_En": "BAVONTAWEEPANYA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ruchipas@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ลัมพาพรรณ",
+        "Last_Name_Th": "พันธ์ชูจิตร์",
+        "First_Name_En": "LUMPAPUN",
+        "Last_Name_En": "PUNCHOOJIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "lumpapun@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วชิรนันท์",
+        "Last_Name_Th": "อุ่นมี",
+        "First_Name_En": "WACHIRANAN",
+        "Last_Name_En": "UNMEE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wachi_u@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วนารัตน์",
+        "Last_Name_Th": "กรอิสรานุกูล",
+        "First_Name_En": "WANARAT",
+        "Last_Name_En": "KONISRANUKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wanarat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วนิดา",
+        "Last_Name_Th": "ชูอักษร",
+        "First_Name_En": "WANIDA",
+        "Last_Name_En": "CHOOAKSORN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "cwanida@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วนิดา",
+        "Last_Name_Th": "พฤทธิวิทยา",
+        "First_Name_En": "WANIDA",
+        "Last_Name_En": "PUTTHIVIDHYA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pwanida@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วรเวทย์",
+        "Last_Name_Th": "ลีลาอภิรดี",
+        "First_Name_En": "WORRAWATE",
+        "Last_Name_En": "LEELA-APIRADEE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "winner30@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วรภัทร",
+        "Last_Name_Th": "ลัคนทินวงศ์",
+        "First_Name_En": "VORAPATARA",
+        "Last_Name_En": "LUCKANATINVONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "voraphat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วรรณฑณี",
+        "Last_Name_Th": "สิทธิวงษ์",
+        "First_Name_En": "WANTANEE",
+        "Last_Name_En": "SITTIWONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wantane@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วรรณวรัตม์",
+        "Last_Name_Th": "อันล้ำเลิศ",
+        "First_Name_En": "WANWARAT",
+        "Last_Name_En": "ANLAMLERT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wanwarat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วรวรรณ",
+        "Last_Name_Th": "ดีอัซ การ์บาโย",
+        "First_Name_En": "WORAWAN",
+        "Last_Name_En": "DIAZ CARBALLO",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "papong@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วรวัฒน์",
+        "Last_Name_Th": "สุราฤทธ",
+        "First_Name_En": "WORAWAT",
+        "Last_Name_En": "SURARIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wora_sur@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วรางคณา",
+        "Last_Name_Th": "สมพงษ์",
+        "First_Name_En": "WARANGKANA",
+        "Last_Name_En": "SOMPONGSE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "warang@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วราภรณ์",
+        "Last_Name_Th": "หวังคุ้มกลาง",
+        "First_Name_En": "วราภรณ์",
+        "Last_Name_En": "หวังคุ้มกลาง",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "noonwrp@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วราฤทธิ์",
+        "Last_Name_Th": "พานิชกิจโกศลกุล",
+        "First_Name_En": "WARARIT",
+        "Last_Name_En": "PANICHKITKOSOLKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wararit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วราวุธ",
+        "Last_Name_Th": "ติยพงศ์พัฒนา",
+        "First_Name_En": "WARAWUT",
+        "Last_Name_En": "TIYAPONGPATTANA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "twarawut@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วรินอร",
+        "Last_Name_Th": "เจตนเสน",
+        "First_Name_En": "WARINON",
+        "Last_Name_En": "CHETANASENA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "warinon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วรุณธร",
+        "Last_Name_Th": "เชื้อบุญมี",
+        "First_Name_En": "VARUNDHORN",
+        "Last_Name_En": "CHUABOONMEE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "saifone@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วสันต์",
+        "Last_Name_Th": "ไมอักรี",
+        "First_Name_En": "WASAN",
+        "Last_Name_En": "MAIAUGREE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wasankim@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วสิศ",
+        "Last_Name_Th": "ลิ้มประเสริฐ",
+        "First_Name_En": "WASIT",
+        "Last_Name_En": "LIMPRASERT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wasit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วันหยก",
+        "Last_Name_Th": "อติเศรษฐพงศ์",
+        "First_Name_En": "WANYOK",
+        "Last_Name_En": "ATISATTAPONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "awanyok@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วันอภินันต์",
+        "Last_Name_Th": "นาแว",
+        "First_Name_En": "WANAPINUN",
+        "Last_Name_En": "NAWAE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wa_nawae@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วัลลภา",
+        "Last_Name_Th": "กลิ่นสวาท",
+        "First_Name_En": "WALLAPA",
+        "Last_Name_En": "KLINSAWAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wallapa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วาสนา",
+        "Last_Name_Th": "เฟื่องฟุ้ง",
+        "First_Name_En": "วาสนา",
+        "Last_Name_En": "เฟื่องฟุ้ง",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "fw@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วิไลลักษณ์",
+        "Last_Name_Th": "ชัยสิทธิ์",
+        "First_Name_En": "WILAILUK",
+        "Last_Name_En": "CHAIYASIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "cwilailu@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วิชัย",
+        "Last_Name_Th": "วิทยาเกียรติเลิศ",
+        "First_Name_En": "WICHAI",
+        "Last_Name_En": "WITAYAKIATTILERD",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wichai.w@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วิชัยรัตน์",
+        "Last_Name_Th": "จันที",
+        "First_Name_En": "WICHAIRAT",
+        "Last_Name_En": "CHUNTEE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "chuntee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วิภา",
+        "Last_Name_Th": "ตังคนานนท์",
+        "First_Name_En": "WIPA",
+        "Last_Name_En": "TANGKANANOND",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wipatang@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วิรัตน์",
+        "Last_Name_Th": "จารีวงศ์ไพบูลย์",
+        "First_Name_En": "WIRAT",
+        "Last_Name_En": "JAREEVONGPIBOON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wirat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วิลาวรรณ์",
+        "Last_Name_Th": "เชื้อบุญ",
+        "First_Name_En": "WILAWAN",
+        "Last_Name_En": "CHUABOON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "cwilawan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วิลาวรรณ",
+        "Last_Name_Th": "รักผกาวงศ์",
+        "First_Name_En": "WILAWAN",
+        "Last_Name_En": "RUKPAKAVONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rwilawan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วิลาวัณย์",
+        "Last_Name_Th": "ภมรสุวรรณ",
+        "First_Name_En": "WILAWAN",
+        "Last_Name_En": "PHAMORSUWAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wilawan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วิสุดา",
+        "Last_Name_Th": "แก้วนันไชย",
+        "First_Name_En": "VISUDA",
+        "Last_Name_En": "KAEWNUNCHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "visudakn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วีรยุทธ",
+        "Last_Name_Th": "ศรีชัยศิริเวช",
+        "First_Name_En": "WEERAYUT",
+        "Last_Name_En": "SRICHAISIRIWECH",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "weerayut@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วุฒิชัย",
+        "Last_Name_Th": "ขอทะเสน",
+        "First_Name_En": "WOOTICHAI",
+        "Last_Name_En": "KHOTASEN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "khotasen@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วุฒิพล",
+        "Last_Name_Th": "สินธุนาวารัตน์",
+        "First_Name_En": "WUTIPHOL",
+        "Last_Name_En": "SINTUNAVARAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wutiphol@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "วุฒิศักดิ์",
+        "Last_Name_Th": "ลาละคร",
+        "First_Name_En": "วุฒิศักดิ์",
+        "Last_Name_En": "ลาละคร",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wut_cdt@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ศรัณย์",
+        "Last_Name_Th": "กุลยานนท์",
+        "First_Name_En": "ศรัณย์",
+        "Last_Name_En": "กุลยานนท์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sarung@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ศรัณยา",
+        "Last_Name_Th": "ใฝ่ชำนาญ",
+        "First_Name_En": "ศรัณยา",
+        "Last_Name_En": "ใฝ่ชำนาญ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "saranyaf@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ศรีเรือน",
+        "Last_Name_Th": "ระย้าเพ็ชร",
+        "First_Name_En": "ศรีเรือน",
+        "Last_Name_En": "ระย้าเพ็ชร",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sriruanw@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ศรีสุดา",
+        "Last_Name_Th": "ปัณณานุสรณ์",
+        "First_Name_En": "SRISUDA",
+        "Last_Name_En": "PANNANUSORN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "srisuda3@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ศรุต",
+        "Last_Name_Th": "อำมาตย์โยธิน",
+        "First_Name_En": "SARUTE",
+        "Last_Name_En": "UMMARTYOTIN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sarute@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ศศิพร",
+        "Last_Name_Th": "ทองแม้น",
+        "First_Name_En": "SASIPORN",
+        "Last_Name_En": "TONGMAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tongmans@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ศิริจันทร์",
+        "Last_Name_Th": "เวสารัชศาต",
+        "First_Name_En": "SIRICHAN",
+        "Last_Name_En": "VESARACHASART",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "vsiricha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ศิริพร",
+        "Last_Name_Th": "นาประเสริฐกุล",
+        "First_Name_En": "SIRIPORN",
+        "Last_Name_En": "NAPRASERTKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "spromsri@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ศิริพรรณ",
+        "Last_Name_Th": "ทวีสุข",
+        "First_Name_En": "SIRIPUN",
+        "Last_Name_En": "TAWEESUK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tsiripun@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "ศิริวิทย์",
+        "Last_Name_Th": "บัวเจริญ",
+        "First_Name_En": "SIRIWIT",
+        "Last_Name_En": "BUAJAREAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "bsiliwit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สมเกียรติ",
+        "Last_Name_Th": "โกศลสมบัติ",
+        "First_Name_En": "SOMKIAT",
+        "Last_Name_En": "KOSOLSOMBAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "somkiatk@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สมจิต",
+        "Last_Name_Th": "ดำริห์อนันต์",
+        "First_Name_En": "SOMCHIT",
+        "Last_Name_En": "DAMRIANANT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "somchit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สมจินตนา",
+        "Last_Name_Th": "พุทธมาตร",
+        "First_Name_En": "สมจินตนา",
+        "Last_Name_En": "พุทธมาตร",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "psomchin@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สมชาย",
+        "Last_Name_Th": "ชคตระการ",
+        "First_Name_En": "SOMCHAI",
+        "Last_Name_En": "CHAKHATRAKARN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "somchaic@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สมบูรณ์",
+        "Last_Name_Th": "กีรติประยูร",
+        "First_Name_En": "SOMBOON",
+        "Last_Name_En": "KIRATIPRAYOON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ksomboon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สมบูรณ์พร",
+        "Last_Name_Th": "ฮิมชเต็ดท์",
+        "First_Name_En": "สมบูรณ์พร",
+        "Last_Name_En": "ฮิมชเต็ดท์",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "hsomboon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สมยศ",
+        "Last_Name_Th": "คงคารัตน์",
+        "First_Name_En": "SOMYOTE",
+        "Last_Name_En": "KONGKARAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ksomyote@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สรณ์",
+        "Last_Name_Th": "สุวรรณโชติ",
+        "First_Name_En": "SORN",
+        "Last_Name_En": "SUWANNACHOTE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ssorn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สรลักษณ์",
+        "Last_Name_Th": "วงษ์เสรี",
+        "First_Name_En": "สรลักษณ์",
+        "Last_Name_En": "วงษ์เสรี",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sorralak@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สรวิชญ์",
+        "Last_Name_Th": "โมกขาว",
+        "First_Name_En": "สรวิชญ์",
+        "Last_Name_En": "โมกขาว",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sorawitm@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สอาด",
+        "Last_Name_Th": "ริยะจันทร์",
+        "First_Name_En": "SA-AD",
+        "Last_Name_En": "RIYAJAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sa-adr@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สายตุลา",
+        "Last_Name_Th": "ณ ระนอง",
+        "First_Name_En": "SAITULAA",
+        "Last_Name_En": "NARANONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "saitulaa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สายทอง",
+        "Last_Name_Th": "อมรวิเชษฐ์",
+        "First_Name_En": "SAITHONG",
+        "Last_Name_En": "AMORNWICHET",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "asaitong@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สายฝน",
+        "Last_Name_Th": "จาตุรันตบุตร",
+        "First_Name_En": "SAIFON",
+        "Last_Name_En": "CHATURANTABUT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "saifonc@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สายพิน",
+        "Last_Name_Th": "นพประโคน",
+        "First_Name_En": "สายพิน",
+        "Last_Name_En": "นพประโคน",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "saipinj@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สายสุรีย์",
+        "Last_Name_Th": "ประทีปทองคำ",
+        "First_Name_En": "SAISUREE",
+        "Last_Name_En": "PRATEEPTONGKUM",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "saisuree@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สายัณห์",
+        "Last_Name_Th": "ผุดวัฒน์",
+        "First_Name_En": "SAYAN",
+        "Last_Name_En": "PUDWAT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "psayan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สิทธิโชค",
+        "Last_Name_Th": "อำนวยพล",
+        "First_Name_En": "SITICHOKE",
+        "Last_Name_En": "AMNUANPOL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sitichok@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สิทธิพงศ์",
+        "Last_Name_Th": "รักตะเมธากูล",
+        "First_Name_En": "SITTIPONG",
+        "Last_Name_En": "RUKTAMATAKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sittipon@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สิริกันยา",
+        "Last_Name_Th": "นิลพานิช",
+        "First_Name_En": "SIRIKUNYA",
+        "Last_Name_En": "NILPANICH",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nsirikun@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สิรินดา",
+        "Last_Name_Th": "กุสุมภ์",
+        "First_Name_En": "SIRINDA",
+        "Last_Name_En": "KUSUMP",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sirinda@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สิรินันท์",
+        "Last_Name_Th": "ตรีนันทวัน",
+        "First_Name_En": "สิรินันท์",
+        "Last_Name_En": "ตรีนันทวัน",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "tsirinan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สิริพงศ์",
+        "Last_Name_Th": "ศิริสุข",
+        "First_Name_En": "SIRIPONG",
+        "Last_Name_En": "SIRISUK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sirisuk@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สืบตระกูล",
+        "Last_Name_Th": "สุชาติ",
+        "First_Name_En": "สืบตระกูล",
+        "Last_Name_En": "สุชาติ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sueb@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุเปญญา",
+        "Last_Name_Th": "จิตตพันธ์",
+        "First_Name_En": "SUPENYA",
+        "Last_Name_En": "CHITTAPUN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "supenyac@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุเพชร",
+        "Last_Name_Th": "จิรขจรกุล",
+        "First_Name_En": "SUPET",
+        "Last_Name_En": "JIRAKAJOHNKOOL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "supet@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุเมธ",
+        "Last_Name_Th": "วงศ์เขียว",
+        "First_Name_En": "SUMETH",
+        "Last_Name_En": "WONGKIEW",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sumethwo@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุกรี",
+        "Last_Name_Th": "สินธุภิญโญ",
+        "First_Name_En": "SUKREE",
+        "Last_Name_En": "SINTHUPINYO",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ssukree@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุกฤษ",
+        "Last_Name_Th": "ตันตราวงศ์",
+        "First_Name_En": "SUKRIT",
+        "Last_Name_En": "TANTRAWONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sukrit@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุกัญญา",
+        "Last_Name_Th": "รัตโนทยานนท์",
+        "First_Name_En": "SUKANYA",
+        "Last_Name_En": "RATANOTAYANON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "rsukanya@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุกัลยา",
+        "Last_Name_Th": "อุทัยดา",
+        "First_Name_En": "SUGUNYA",
+        "Last_Name_En": "UTAIDA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sugunya9@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุชาติ",
+        "Last_Name_Th": "เชษฐนอก",
+        "First_Name_En": "สุชาติ",
+        "Last_Name_En": "เชษฐนอก",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "chetnok@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุญาดา",
+        "Last_Name_Th": "โสรธร",
+        "First_Name_En": "สุญาดา",
+        "Last_Name_En": "โสรธร",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "suyada24@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุดาทิพย์",
+        "Last_Name_Th": "จันทร",
+        "First_Name_En": "SUDATHIP",
+        "Last_Name_En": "CHANTORN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "sudathip@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุธีรา",
+        "Last_Name_Th": "ลิมปิพิชัย",
+        "First_Name_En": "SUTEERA",
+        "Last_Name_En": "LIMBIPICHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "limbi@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุธีรา",
+        "Last_Name_Th": "วัฒนกุล",
+        "First_Name_En": "SUTEERA",
+        "Last_Name_En": "VATTHANAKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "vsuteera@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุนทรี",
+        "Last_Name_Th": "สุวรรณสิชณน์",
+        "First_Name_En": "SUNTAREE",
+        "Last_Name_En": "SUWONSICHON",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ssuntare@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุนันต์",
+        "Last_Name_Th": "อ่วมกระทุ่ม",
+        "First_Name_En": "สุนันต์",
+        "Last_Name_En": "อ่วมกระทุ่ม",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pusri@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุปราณี",
+        "Last_Name_Th": "ลิสวัสดิ์",
+        "First_Name_En": "SUPRANEE",
+        "Last_Name_En": "LISAWADI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "lsuprane@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุพจน์",
+        "Last_Name_Th": "นาขวัญ",
+        "First_Name_En": "สุพจน์",
+        "Last_Name_En": "นาขวัญ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "nsupot@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุพัชระ",
+        "Last_Name_Th": "คงนวน",
+        "First_Name_En": "SUPUTCHARA",
+        "Last_Name_En": "KONGNUAL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "suputcha@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุพัตรา",
+        "Last_Name_Th": "สุภาวงศ์",
+        "First_Name_En": "SUPATTRA",
+        "Last_Name_En": "SUPAWONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "supat29@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุภกร",
+        "Last_Name_Th": "บุญยืน",
+        "First_Name_En": "SUPAKORN",
+        "Last_Name_En": "BOONYUEN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "supakorn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุภกุญช์",
+        "Last_Name_Th": "พนาสวัสดิ์วงศ์",
+        "First_Name_En": "SUPAKUN",
+        "Last_Name_En": "PANASAWATWONG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "supakun@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุภาดา",
+        "Last_Name_Th": "คนยัง",
+        "First_Name_En": "SUPADA",
+        "Last_Name_En": "KHONYOUNG",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ksupa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุรเมศวร์",
+        "Last_Name_Th": "ฮาชิม",
+        "First_Name_En": "SURAMASE",
+        "Last_Name_En": "HASHIM",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "suramase@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุริยะกิจ",
+        "Last_Name_Th": "ย่อมมี",
+        "First_Name_En": "SURIYAKIT",
+        "Last_Name_En": "YOMMEE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ysuriyak@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "สุวดี",
+        "Last_Name_Th": "ก้องพารากุล",
+        "First_Name_En": "SUWADEE",
+        "Last_Name_En": "KONGPARAKUL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ksuwadee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "หทัยกาญจน์",
+        "Last_Name_Th": "เลกากาญจน์",
+        "First_Name_En": "HATAIKARN",
+        "Last_Name_En": "LEKAKARN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "lekakarn@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "หฤทัย",
+        "Last_Name_Th": "กลิ่นเพชร",
+        "First_Name_En": "หฤทัย",
+        "Last_Name_En": "กลิ่นเพชร",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ha_k@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อโนทัย",
+        "Last_Name_Th": "ขุนปักษี",
+        "First_Name_En": "อโนทัย",
+        "Last_Name_En": "ขุนปักษี",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "kanothai@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อดิศักดิ์",
+        "Last_Name_Th": "ร่มพุฒตาล",
+        "First_Name_En": "ADISAK",
+        "Last_Name_En": "ROMPUTTAL",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "radisak@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อดุลย์",
+        "Last_Name_Th": "แป้นสุวรรณ",
+        "First_Name_En": "ADOON",
+        "Last_Name_En": "PANSUWAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "pansuwan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อนงค์",
+        "Last_Name_Th": "วงศ์ศรีรักษา",
+        "First_Name_En": "ANONG",
+        "Last_Name_En": "WONGSRIRAKSA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "wanong@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อมรเทพ",
+        "Last_Name_Th": "จิรศักดิ์จำรูญศรี",
+        "First_Name_En": "AMORNTEP",
+        "Last_Name_En": "JIRASAKJAMROONSRI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "amorntep@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อมรกุล",
+        "Last_Name_Th": "สินประวุธฒ",
+        "First_Name_En": "AMORNKUL",
+        "Last_Name_En": "SINPRAWUT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "amornkul@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อรจิรา",
+        "Last_Name_Th": "สิทธิศักดิ์",
+        "First_Name_En": "ONJIRA",
+        "Last_Name_En": "SITTISAK",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "onjira@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อรประภา",
+        "Last_Name_Th": "เทพศิลปวิสุทธิ์",
+        "First_Name_En": "ORNPRAPA",
+        "Last_Name_En": "THEPSILVISUT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "ornprapa@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อรรฆวัชร",
+        "Last_Name_Th": "รวมไมตรี",
+        "First_Name_En": "AKKAWAT",
+        "Last_Name_En": "RUAMMAITREE",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "akkawat@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อรรถวุฒิ",
+        "Last_Name_Th": "วงศ์ประดิษฐ์",
+        "First_Name_En": "ATTAWUT",
+        "Last_Name_En": "WONGPRADIT",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "attawutt@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อรุณวรรณ",
+        "Last_Name_Th": "สืบศรีวิชัย",
+        "First_Name_En": "AROONWAN",
+        "Last_Name_En": "SUEBSRIWICHAI",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "aroonwan@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อวันวี",
+        "Last_Name_Th": "เพชรคงแก้ว",
+        "First_Name_En": "AWANWEE",
+        "Last_Name_En": "PETCHKONGKEAW",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "awanwee@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อักษิกา",
+        "Last_Name_Th": "จันทรวินิจ",
+        "First_Name_En": "AKSIKA",
+        "Last_Name_En": "CHANTARAWINIJ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "aksika_c@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อัจจิมา",
+        "Last_Name_Th": "หาญชนะ",
+        "First_Name_En": "อัจจิมา",
+        "Last_Name_En": "หาญชนะ",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "aatjima@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อัจฉรา",
+        "Last_Name_Th": "ปาจีนบูรวรรณ์",
+        "First_Name_En": "ARCHARA",
+        "Last_Name_En": "PACHEENBURAWANA",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "parchara@staff.tu.ac.th"
+    },
+    {
+        "First_Name_Th": "อารยา",
+        "Last_Name_Th": "แจ่มจันทร์",
+        "First_Name_En": "ARAYA",
+        "Last_Name_En": "CHAMCHAN",
+        "Faculty_Name_Th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "Faculty_Name_En": "Faculty of Science and Technology",
+        "Email": "caraya@staff.tu.ac.th"
+    }
+]
