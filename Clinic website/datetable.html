@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>คลินิกรักษาสัตว์</title>
+   <link rel="stylesheet" href="style3.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400&display=swap" rel="stylesheet">
+   <script src = 'button.js'></script>
+   <style>
+         table, th, td {
+            border: 3px solid #509897;
+            border-collapse: collapse;
+            background-color: #f7f4f4;
+         }
+         input{
+            height: 30px;
+            border: none;
+				text-align:center;
+				border-radius: 8px;
+            font-size:large;
+            background-color:rgb(228, 228, 228);
+            
+         }
+   </style>
+</head>
+
+<body style="background-color:#d1ede4;">
+
+   <div>
+      <div id="box1" class="eiei"></div>
+      <div id="box2" class="eiei"></div>
+   </div>
+
+   <div id="logo">
+      <img src="logo.png" width="100" height="70">
+   </div>
+
+   <div id="clinic">
+      <b>คลินิกรักษาสัตว์</b>
+   </div>
+   <form>
+      <div id="boxform">
+         &emsp;
+         <button type ="button" onclick="home()" class="hover-underline-animation">หน้าหลัก</button>
+         <button type ="button" onclick="pethis()" class="hover-underline-animation">ประวัติสัตว์</button>
+         <button  class="hover-underline-animation">ตารางนัด</button>
+         <button type ="button" onclick="medtable()" class="hover-underline-animation">Medecine Stock</button>
+         <button type ="button" onclick="emp()" class="hover-underline-animation">บุคลากร</button> &emsp;&emsp;&emsp;&emsp;
+         <img id="pic" src="user.jpg" width="50" height="50">
+         <p class="eiei" style="font-size: 1.5em; color: #eb4012;">&emsp;Natthima Noinon</p>&emsp;
+         <img id="pic" src="setting.png" width="50" height="50">
+
+         <div class="c" id="gbox">
+            <br>
+            <p style="font-size: 1.4em; color: #265a66;">
+               <b>&emsp;&emsp;&emsp;&emsp;&emsp;<font size="5">ตารางนัด</font></b>
+            </p>
+         </div>
+         <br><br><br>
+      
+         <table style="width:70% ; margin-left: 15%;" >
+                  <tr>
+                     <td colspan=3  height="80" width="100"><font size="7" color ="#265a66" style=" margin-top:2% ;display: inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ตารางนัดรักษาสัตว์</font><h3 style=" display: inline-block;" align = 'right'><font size="5" color ="f05425">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ประจำวันที่ xx/xx/xx</font></h3><br><button id="Fbutton"></button></td>  
+                  </tr>
+                  <tr>
+                     <th> <font style="color:#5f5f5d ;" size="5.5"> เวลา </font></th>
+                     <th> <font style="color:#5f5f5d ;"  size="5.5"> รายการรักษา </font></th>
+                     <th> <font style="color:#5f5f5d ;"  size="5.5"> ID สัตว์ที่รักษา </font></th> 
+                  </tr>
+                  <tr>
+                     <td><input class="table" type="datetime-local" id="time1" name="time1" style="width:372px"></td>
+                     <td><input class="table" type="text" id="list1" name="list1" style="width:372px"></td>
+                     <td><input class="table" type="text" id="aid1"  name="aid1" style="width:372px"></td>
+                 </tr>
+                 <tr>
+                     <td><input class="table" type="datetime-local" id="time2" name="time2" style="width:372px"></td>
+                     <td><input class="table" type="text" id="list2" name="list2" style="width:372px"></td>
+                     <td><input class="table" type="text" id="aid2"  name="aid2" style="width:372px"></td>
+                 </tr>
+                 <tr>
+                     <td><input class="table" type="datetime-local" id="time3" name="time3" style="width:372px"></td>
+                     <td><input class="table" type="text" id="list3" name="list3" style="width:372px"></td>
+                     <td><input class="table" type="text" id="aid3"  name="aid3" style="width:372px"></td>
+                 </tr>
+                 <tr>
+                     <td><input class="table" type="datetime-local" id="time4" name="time4" style="width:372px"></td>
+                     <td><input class="table" type="text" id="list4" name="list4" style="width:372px"></td>
+                     <td><input class="table" type="text" id="aid4"  name="aid4" style="width:372px"></td>
+                 </tr>
+                 <tr>
+                     <td><input class="table" type="datetime-local" id="time5" name="time5" style="width:372px"></td>
+                     <td><input class="table" type="text" id="list5" name="list5" style="width:372px"></td>
+                     <td><input class="table" type="text" id="aid5"  name="aid5" style="width:372px"></td>
+                 </tr>
+                 <tr>
+                    <td colspan=3 height="80" > <button id="nbutton"></button></td>
+                 </tr>
+         </table>
+         <br><br><br>
+      </div>
+   </form>
+   <br>
+   <p>&emsp;©สงวนลิขสิทธิ์เฉพาะคลินิกรักษาสัตว์</p>
+</body>
+
+</html>

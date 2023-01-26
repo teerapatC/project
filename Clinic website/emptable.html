@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>คลินิกรักษาสัตว์</title>
+   <link rel="stylesheet" href="style3.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400&display=swap" rel="stylesheet">
+   <script src = 'button.js'></script>
+   <style>
+         table, th, td {
+            border: 3px solid #509897;
+            border-collapse: collapse;
+            background-color: #f7f4f4;
+         }
+         input{
+            height: 30px;
+            border: none;
+				text-align:center;
+				border-radius: 8px;
+            font-size:large;
+            background-color:rgb(228, 228, 228);
+            
+         }
+   </style>
+</head>
+
+<body style="background-color:#d1ede4;">
+
+   <div>
+      <div id="box1" class="eiei"></div>
+      <div id="box2" class="eiei"></div>
+   </div>
+
+   <div id="logo">
+      <img src="logo.png" width="100" height="70">
+   </div>
+
+   <div id="clinic">
+      <b>คลินิกรักษาสัตว์</b>
+
+   </div>
+   <form>
+      <div id="boxform">
+         &emsp;
+         <button type ="button" onclick="home()" class="hover-underline-animation">หน้าหลัก</button>
+         <button type ="button" onclick="pethis()" class="hover-underline-animation">ประวัติสัตว์</button>
+         <button type ="button" onclick="date()" class="hover-underline-animation">ตารางนัด</button>
+         <button type ="button" onclick="medtable()" class="hover-underline-animation">Medecine Stock</button>
+         <button class="hover-underline-animation">บุคลากร</button> &emsp;&emsp;&emsp;&emsp;
+         <img id="pic" src="user.jpg" width="50" height="50">
+         <p class="eiei" style="font-size: 1.5em; color: #eb4012;">&emsp;Natthima Noinon</p>&emsp;
+         <img id="pic" src="setting.png" width="50" height="50">
+
+         <div class="c" id="gbox">
+            <br>
+            <p style="font-size: 1.4em; color: #265a66;">
+               <b>&emsp;&emsp;&emsp;&emsp;&emsp;<font size="6">บุคลากร</font></b>
+            </p>
+         </div>
+         <br><br><br>
+         <table style="width:70%  ; margin-left: 15%;">
+                  <tr>
+                     <td colspan=7  height="80" width="100"> <font size="7" color ="#265a66"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;รายชื่อบุคลากร</font><br><button id="Fbutton"></button></td>
+
+
+
+                  </tr>
+                  <tr>
+                     <th> <font style="color:#5f5f5d ;" size="5.5"> ตำแหน่ง </font></th>
+                     <th> <font style="color:#5f5f5d ;" size="5.5"> EmpID </font></th>
+                     <th> <font style="color:#5f5f5d ;"  size="5.5"> ชื่อ </font></th> 
+                     <th> <font style="color:#5f5f5d ;" size="5.5"> ที่อยู่ </font></th> 
+                     <th> <font style="color:#5f5f5d ;" size="5.5"> เงินเดือน </font></th> 
+                     <th> <font style="color:#5f5f5d ;" size="5.5"> เบอร์มือถือ </font></th> 
+                     <th> <font style="color:#5f5f5d ;" size="5.5"> วันที่เริ่มงาน </font></th> 
+                  </tr>
+                  <tr>
+                     <td><input class="table" type="text" id="pos1" name="pos1" style="width:154px"></td>
+                     <td><input class="table" type="text" id="eid1" name="eid1" style="width:154px"></td>
+                     <td><input class="table" type="text" id="name1"  name="name1" style="width:154px"></td>
+                     <td><input class="table" type="text" id="address1"  name="address1" style="width:154px"></td>
+                     <td><input class="table" type="text" id="money1"  name="money1" style="width:154px"></td>
+                     <td><input class="table" type="text" id="tel1"  name="tel1" style="width:154px"></td>
+                     <td><input class="table" type="text" id="start1"  name="start1" style="width:154px"></td>
+                 </tr>
+                 <tr>
+                     <td><input class="table" type="text" id="pos2" name="pos2" style="width:154px"></td>
+                     <td><input class="table" type="text" id="eid2" name="eid2" style="width:154px"></td>
+                     <td><input class="table" type="text" id="name2"  name="name2" style="width:154px"></td>
+                     <td><input class="table" type="text" id="address2"  name="address2" style="width:154px"></td>
+                     <td><input class="table" type="text" id="money2"  name="money2" style="width:154px"></td>
+                     <td><input class="table" type="text" id="tel2"  name="tel2" style="width:154px"></td>
+                     <td><input class="table" type="text" id="start2"  name="start2" style="width:154px"></td>
+                 </tr>
+                 <tr>
+                     <td><input class="table" type="text" id="pos3" name="pos3" style="width:154px"></td>
+                     <td><input class="table" type="text" id="eid3" name="eid3" style="width:154px"></td>
+                     <td><input class="table" type="text" id="name3"  name="name3" style="width:154px"></td>
+                     <td><input class="table" type="text" id="address3"  name="address3" style="width:154px"></td>
+                     <td><input class="table" type="text" id="money3"  name="money3" style="width:154px"></td>
+                     <td><input class="table" type="text" id="tel3"  name="tel3" style="width:154px"></td>
+                     <td><input class="table" type="text" id="start3"  name="start3" style="width:154px"></td>
+                 </tr>
+                 <tr>
+                     <td><input class="table" type="text" id="pos4" name="pos4" style="width:154px"></td>
+                     <td><input class="table" type="text" id="eid4" name="eid4" style="width:154px"></td>
+                     <td><input class="table" type="text" id="name4"  name="name4" style="width:154px"></td>
+                     <td><input class="table" type="text" id="address4"  name="address4" style="width:154px"></td>
+                     <td><input class="table" type="text" id="money4"  name="money4" style="width:154px"></td>
+                     <td><input class="table" type="text" id="tel4"  name="tel4" style="width:154px"></td>
+                     <td><input class="table" type="text" id="start4"  name="start4" style="width:154px"></td>
+                 </tr>
+                 <tr>
+                     <td><input class="table" type="text" id="pos5" name="pos5" style="width:154px"></td>
+                     <td><input class="table" type="text" id="eid5" name="eid5" style="width:154px"></td>
+                     <td><input class="table" type="text" id="name5"  name="name5" style="width:154px"></td>
+                     <td><input class="table" type="text" id="address5"  name="address5" style="width:154px"></td>
+                     <td><input class="table" type="text" id="money5"  name="money5" style="width:154px"></td>
+                     <td><input class="table" type="text" id="tel5"  name="tel5" style="width:154px"></td>
+                     <td><input class="table" type="text" id="start5"  name="start5" style="width:154px"></td>
+                 </tr>
+                 <tr>
+                     <td colspan=7 height="80" > <button id="nbutton"></button></td>
+                 </tr>
+            
+         </table>
+         <br><br><br>
+          
+
+      </div>
+
+   </form>
+   <br>
+
+   <p>&emsp;©สงวนลิขสิทธิ์เฉพาะคลินิกรักษาสัตว์</p>
+
+
+
+
+</body>
+
+</html>

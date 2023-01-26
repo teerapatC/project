@@ -1,0 +1,651 @@
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.eiei {
+    display: inline;
+}
+
+#box1 {
+    width: 200px;
+    height: 100px;
+    background-color: #265a66;
+    padding-right: 480px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin: -10px;
+}
+
+#box2 {
+    
+    height: 100px;
+    background-color: rgb(250, 250, 250);
+    padding-right: 1425px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin: 10px;
+}
+
+#boxform {
+    border-radius: 50px;
+    width: 1640px;
+    height: 850px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-left: 140px;
+}
+
+#loginbox {
+    border-radius: 50px;
+    width: 600px;
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    margin-top: 12%;
+    margin-bottom: 9%;
+    
+    
+}
+
+
+#gbox {
+
+    width: 1640px;
+    height: 90px;
+    background-color: #e6e6e6;
+    margin-top: 25px;
+}
+
+#gboxhome {
+
+    width: 1640px;
+    height: 370px;
+    background-color: #e6e6e6;
+    margin-top: 25px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+#obox {
+    border: 5px solid #f1a470;
+    border-radius: 60px;
+    width: 240px;
+    height: 60px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+#obox2{
+    border: 5px solid #919090;
+    border-radius: 60px;
+    width: 240px;
+    height: 60px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: -4px;
+}
+
+#obox3{
+    border: 5px solid #f1a470;
+    border-radius: 60px;
+    width: 240px;
+    height: 60px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: -4px;
+}
+
+#inobox {
+    border-radius: 60px;
+    background-color: #f1a470;
+    width: 200px;
+    height: 60px;
+    margin-left: 45px;
+    margin-top: -43px;
+}
+
+#inobox2{
+    border-radius: 60px;
+    background-color: #919090;
+    width: 200px;
+    height: 60px;
+    margin-left: 45px;
+    margin-top: -43px;
+}
+
+#inobox3{
+    border-radius: 60px;
+    background-color: #f1a470;
+    width: 200px;
+    height: 60px;
+    margin-left: 45px;
+    margin-top: -43px;
+}
+
+#connect{
+    width: 70px;
+    height: 12px;
+    background-color: #919090;
+    margin-top: 25px;
+    margin-left: -4px;
+}
+
+#connect2{
+    width: 70px;
+    height: 12px;
+    background-color: #f1a470;
+    margin-top: 25px;
+    margin-left: -4px;
+}
+
+#logo {
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+#clinic {
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: 30px;
+    -webkit-text-stroke: 0.5px #509897;
+    margin-top: -65px;
+    margin-left: 140px;
+}
+
+.btn {
+    font-family: 'Kanit', sans-serif;
+    cursor: pointer;
+    background-color: transparent;
+    height: 50px;
+    width: 200px;
+    color: #265a66;
+    font-size: 1.5em;
+    border: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+#pic {
+    vertical-align: bottom;
+    margin-left: 20px;
+
+}
+
+div.c {
+    line-height: 90%;
+}
+
+div.d {
+    line-height: 120%;
+}
+
+.underlinehistory{
+    background-color: #265a66;
+    height: 8px;
+    width: 200px;
+    margin-left: 263px;
+}
+
+.hover-underline-animation {
+    font-family: 'Kanit', sans-serif;
+    cursor: pointer;
+    background-color: transparent;
+    height: 50px;
+    width: 200px;
+    color: #265a66;
+    font-size: 1.5em;
+    border: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    display: inline-block;
+    position: relative;
+
+}
+
+.hover-underline-animation:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #265a66;
+    transform-origin: bottom right;
+    transition: transform 0.5s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+:focus {
+    outline: none;
+}
+
+.content {
+    position: relative;
+}
+
+.input {
+
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.1em;
+    width: 200px;
+    border: 0;
+    padding: 10px 10px;
+    border-bottom: 2px solid #adadad;
+}
+
+.input~.border {
+    position: absolute;
+    bottom: 0;
+    left: 77px;
+    width: 0;
+    height: 0px;
+
+}
+
+.input:focus~.border {
+    width: 220px;
+    transition: 1s;
+
+}
+
+.container {
+    border: 0.5px solid;
+    padding-bottom: 40px;
+}
+
+.border {
+    border: 1px solid #265a66 !important;
+
+}
+
+table,
+th,
+td {
+    margin-left: 130px;
+    table-layout: fixed;
+    width: 70%;
+    /* border: 1px solid black; */
+}
+
+
+#nbutton {
+    float: right;
+    margin-right: 80px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #265a66;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+#nbutton:hover {
+    color: white;
+    background: #f1a470;
+}
+
+#nbutton:active {
+    letter-spacing: 2px;
+}
+
+#nbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "บันทึก";
+}
+
+.onclic {
+    width: 40px;
+    border-color: #bbb;
+    border-width: 3px;
+    font-size: 0;
+    border-left-color: #1ecd97;
+    animation: rotating 2s 0.25s linear infinite;
+}
+
+.onclic:after {
+    content: "";
+}
+
+.onclic:hover {
+    color: #1ecd97;
+    background: white;
+}
+
+.validate {
+    font-size: 13px;
+    color: white;
+    background: #1ecd97;
+}
+
+.validate:after {
+    font-family: 'Kanit', sans-serif;
+    content: "\f00c";
+}
+
+@keyframes rotating {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+#nextbutton {
+    float: right;
+    margin-right: 80px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #265a66;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+#nextbutton:hover {
+    color: white;
+    background: #f1a470;
+}
+
+#nextbutton:active {
+    letter-spacing: 2px;
+}
+
+#nextbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "ถัดไป";
+}
+
+
+
+#prebutton {
+    margin-left: 80px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #ac2a2a;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+#prebutton:hover {
+    color: white;
+    background: #8d8d8c;
+}
+
+#prebutton:active {
+    letter-spacing: 2px;
+}
+
+#prebutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "ย้อนกลับ";
+}
+
+#fixbutton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #af2a2a;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+#fixbutton:hover {
+    color: white;
+    background: #8d8d8c;
+}
+
+#fixbutton:active {
+    letter-spacing: 2px;
+}
+
+#fixbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "แก้ไข";
+}
+
+
+
+#loginbutton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6%;
+
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 140px;
+    border-radius: 40px;
+    background: #ac2a2a;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1.5px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    
+}
+
+#loginbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "Login";
+}
+
+#loginbutton:hover {
+    color: white;
+    background: #8d8d8c;
+}
+
+#loginbutton:active {
+    letter-spacing: 2px;
+}
+*.input-search{
+    box-sizing: border-box;
+  }
+  
+  .search-box{
+    margin-top: 30px;
+    margin-left: 240px;
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    
+  }
+  .input-search{
+    height: 50px;
+    width: 50px;
+    border-style: none;
+    font-size: 18px;
+    letter-spacing: 2px;
+    outline: none;
+    border-radius: 25px;
+    transition: all .5s ease-in-out;
+    color:#919090;
+  }
+  .input-search::placeholder{
+    color:#919090;
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+  }
+  .btn-search{
+    width: 50px;
+    height: 50px;
+    border-color: #d1d1d1;
+    border-style: solid;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50%;
+    position: absolute;
+    right: 0px;
+    background-image: url("search.png");
+    background-repeat: no-repeat;
+    background-color: #f1a470;
+    pointer-events: painted;  
+  }
+  .btn-search:focus ~ .input-search{
+    border-bottom-width: 250px;
+    width: 250px;
+    border-radius: 0px;
+    background-color: transparent;
+    border-bottom:1.3px #d1d1d1;
+    transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
+  }
+  .input-search:focus{
+    
+    width: 250px;
+    border-radius: 0px;
+    background-color: transparent;
+    border-bottom:1.3px solid #d1d1d1;
+    transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
+  }
+
+  iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: -35px;
+    border-radius: 25px;
+    border: 2px solid #265a66;
+  }
+  
+  
+  #addhistory{
+    border: 3px solid #f1a470;
+    border-radius: 60px;
+    width: 250px;
+    height: 60px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow:  5px 10px 6px #ccc;
+}
+
+#oldbutton {
+    
+    width:135px;
+    height:135px;
+    border-radius: 50%;
+    box-shadow:  5px 5px 10px 6px #ccc;
+    border: none;
+    margin-left: 15cm;
+    cursor:pointer;
+    background: url('oldadd.png') no-repeat center ,#ffffff;
+    
+}
+
+#oldbutton:hover {
+    color: white;
+    background: #e2e4e2;
+    cursor:pointer;
+    background: url('oldadd.png') no-repeat center ,#e2e4e2;
+}
+
+#oldbutton:active {
+    cursor:pointer;
+    background: url('oldadd.png') no-repeat center ,#e2e4e2;
+    
+}
+
+#oldbutton:after {
+    cursor:pointer;
+    background: url('oldadd.png') no-repeat center ,#e2e4e2;
+    
+    
+}
+
+#newbutton {
+    
+    width:135px;
+    height:135px;
+    border-radius: 50%;
+    box-shadow:  5px 5px 10px 6px #ccc;
+    border: none;
+    margin-left: 6cm;
+    
+    cursor:pointer;
+    background: url('newadd.png') no-repeat center ,#ffffff;
+    
+}
+
+#newbutton:hover {
+    color: white;
+    background: #e2e4e2;
+    cursor:pointer;
+    background: url('newadd.png') no-repeat center ,#e2e4e2;
+}
+
+#newbutton:active {
+    cursor:pointer;
+    background: url('newadd.png') no-repeat center ,#e2e4e2;
+    
+}
+
+#newbutton:after {
+    cursor:pointer;
+    background: url('newadd.png') no-repeat center ,#e2e4e2;
+    
+    
+}
+.inner
+{
+    display: inline-block;
+}
+  
