@@ -1,0 +1,550 @@
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.eiei {
+    display: inline;
+}
+
+#box1 {
+    width: 200px;
+    height: 100px;
+    background-color: #265a66;
+    padding-right: 480px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin: -10px;
+}
+
+#box2 {
+    width: 500px;
+    height: 100px;
+    background-color: rgb(250, 250, 250);
+    padding-right: 1425px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin: 10px;
+}
+
+#boxform {
+    border-radius: 50px;
+    width: 1640px;
+    height: 850px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-left: 140px;
+}
+
+#gbox {
+
+    width: 1640px;
+    height: 90px;
+    background-color: #e6e6e6;
+    margin-top: 25px;
+}
+
+#obox {
+    border: 5px solid #f1a470;
+    border-radius: 60px;
+    width: 240px;
+    height: 60px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+#inobox {
+    border-radius: 60px;
+    background-color: #f1a470;
+    width: 200px;
+    height: 60px;
+    margin-left: 45px;
+    margin-top: -43px;
+}
+
+#logo {
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+#clinic {
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: 30px;
+    -webkit-text-stroke: 0.5px #509897;
+    margin-top: -65px;
+    margin-left: 140px;
+}
+
+.btn {
+    font-family: 'Kanit', sans-serif;
+    cursor: pointer;
+    background-color: transparent;
+    height: 50px;
+    width: 200px;
+    color: #265a66;
+    font-size: 1.5em;
+    border: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+#pic {
+    vertical-align: bottom;
+    margin-left: 20px;
+
+}
+
+div.c {
+    line-height: 90%;
+}
+
+div.d {
+    line-height: 120%;
+}
+
+.hover-underline-animation {
+    font-family: 'Kanit', sans-serif;
+    cursor: pointer;
+    background-color: transparent;
+    height: 50px;
+    width: 200px;
+    color: #265a66;
+    font-size: 1.5em;
+    border: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    display: inline-block;
+    position: relative;
+
+}
+
+.hover-underline-animation:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #265a66;
+    transform-origin: bottom right;
+    transition: transform 0.5s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+:focus {
+    outline: none;
+}
+
+.content {
+    position: relative;
+}
+
+.input {
+
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.1em;
+    width: 200px;
+    border: 0;
+    padding: 10px 10px;
+    border-bottom: 2px solid #adadad;
+}
+
+.input~.border {
+    position: absolute;
+    bottom: 0;
+    left: 77px;
+    width: 0;
+    height: 0px;
+
+}
+
+.input:focus~.border {
+    width: 220px;
+    transition: 1s;
+
+}
+
+.container {
+    border: 0.5px solid;
+    padding-bottom: 40px;
+}
+
+.border {
+    border: 1px solid #265a66 !important;
+
+}
+
+table,
+th,
+td {
+    margin-left: 130px;
+    table-layout: fixed;
+    width: 70%;
+    /* border: 1px solid black; */
+}
+
+
+#nbutton {
+    float: right;
+    margin-right: 80px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #265a66;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+
+#nbutton:hover {
+    color: white;
+    background: #f1a470;
+}
+
+#nbutton:active {
+    letter-spacing: 2px;
+}
+
+#nbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "บันทึก";
+}
+
+#nnbutton {
+    float: right;
+    margin-right: 80px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #265a66;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+
+#nnbutton:hover {
+    color: white;
+    background: #f1a470;
+}
+
+#nnbutton:active {
+    letter-spacing: 2px;
+}
+
+#nnbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "บันทึกการเเก้ไข";
+}
+
+#Fbutton {
+    float: right;
+    margin-left: 200px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 163px;
+    background:#e6e6e6 ; 
+    border: 4px solid #509897; 
+    color:#265a66 ;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    margin-bottom: -5px;
+    margin-right: -1px;
+}
+
+
+#Fbutton:hover {
+    color: white;
+    background: #265a66;
+}
+
+#Fbutton:active {
+    letter-spacing: 2px;
+}
+
+#Fbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "เเก้ไข";
+}
+
+#FFbutton {
+    float: right;
+    margin-right: 80px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #265a66;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+
+#FFbutton:hover {
+    color: white;
+    background: #f1a470;
+}
+
+#FFbutton:active {
+    letter-spacing: 2px;
+}
+
+#FFbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "เเก้ไข";
+}
+
+#bbutton {
+    float: right;
+    margin-right: 80px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #265a66;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+
+#bbutton:hover {
+    color: white;
+    background: #f1a470;
+}
+
+#bbutton:active {
+    letter-spacing: 2px;
+}
+
+#bbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "ย้อนกลับ";
+}
+
+#Addbutton {
+    float: right;
+    margin-right: 80px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #f1a470;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+#Addbutton:hover {
+    color: white;
+    background: #9f7152;
+}
+
+#Addbbutton:active {
+    letter-spacing: 2px;
+}
+
+#Addbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "เพิ่มข้อมูล";
+}
+
+#Addbutton1 {
+    float: right;
+    margin-right: 80px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #ac2a2a;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+#Addbutton1:hover {
+    color: white;
+    background: #633939;
+}
+
+#Addbbutton1:active {
+    letter-spacing: 2px;
+}
+
+#Addbutton1:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "เพิ่มข้อมูลVet";
+}
+
+#Addbutton2 {
+    float: right;
+    margin-right: 80px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    border-radius: 40px;
+    background: #f1a470;
+    border: 4px solid #e6e6e6;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+#Addbutton2:hover {
+    color: white;
+    background: #9f7152;
+}
+
+#Addbbutton2:active {
+    letter-spacing: 2px;
+}
+
+#Addbutton2:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "เพิ่มข้อมูลAss";
+}
+
+
+
+
+
+
+
+#lbutton {
+    float: right;
+    margin-right: 240px;
+    outline: none;
+    height: 60px;
+    text-align: center;
+    width: 160px;
+    background:#e6e6e6 ; 
+    border: 4px solid #265a66; 
+    color:#265a66 ;
+    letter-spacing: 1px;
+    text-shadow: 0;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+
+#lbutton:hover {
+    color: white;
+    background: #265a66;
+}
+
+#lbutton:active {
+    letter-spacing: 2px;
+}
+
+#lbutton:after {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+    content: "ข้อมูลย้อนหลัง";
+}
+
+.onclic {
+    width: 40px;
+    border-color: #bbb;
+    border-width: 3px;
+    font-size: 0;
+    border-left-color: #1ecd97;
+    animation: rotating 2s 0.25s linear infinite;
+}
+
+.onclic:after {
+    content: "";
+}
+
+.onclic:hover {
+    color: #1ecd97;
+    background: white;
+}
+
+.validate {
+    font-size: 13px;
+    color: white;
+    background: #1ecd97;
+}
+
+.validate:after {
+    font-family: 'Kanit', sans-serif;
+    content: "\f00c";
+}
+
+@keyframes rotating {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
