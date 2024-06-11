@@ -1,0 +1,127 @@
+.profile-container{
+    background-color: #D9D9D9;
+    top: 7%;
+    left: 20%;
+    width: 60%;
+    height: 93%;
+    position: absolute;
+    margin: auto;
+}
+
+.profile-content{
+    background-color: #FFFFFF;
+    margin-left: 10%;
+    margin-top: 3%;
+    width: 50%;
+    height: 88%;
+    padding: 2%;
+    font-size:x-large;
+}
+
+.profile-content img{
+    width: 1rem;
+}
+
+.profile-content .title{
+    margin-block-end: 0.25em;
+}
+
+.profile-content button{
+    font-size: 1.25rem;
+    cursor: pointer;
+    background-color: #72b3e7;
+    border-radius: 0.25em;
+}
+
+.reviewsample{
+    margin-left: 10px;
+    width: 100%;
+    height: 31%;
+    overflow: auto;
+    font-size: 16px;
+}
+
+.reportsample{
+    margin-left: 15px;
+    width: 100%;
+    height: 30%;
+    overflow: auto;
+    font-size: 16px;
+}
+
+.popupDetailReview {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+.popupDetailReview .detail-container{
+    background-color: #D9D9D9;
+    margin-top: 8%;
+    margin-left: 57%;
+    padding: 0px 20px 20px 20px;
+    border: 1px solid #888;
+    width: 20%;
+    height: 50%;
+    overflow: auto;
+}
+
+.popupDetailReview .close{
+    color: red;
+    float: right;
+    font-size: 38px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.review-content{
+    border-radius: 0.25em;
+    background-color: rgb(144, 214, 171);
+    border-bottom: solid black 1px;
+}
+
+.popupDetailReport {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+.popupDetailReport .detail-container{
+    background-color: #D9D9D9;
+    margin-top: 15%;
+    margin-left: 43%;
+    padding: 0px 20px 20px 20px;
+    border: 1px solid #888;
+    width: 20%;
+    height: 50%;
+    overflow: auto;
+}
+
+.popupDetailReport .close{
+    color: red;
+    float: right;
+    font-size: 38px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.report-content{
+    border-radius: 0.25em;
+    background-color: rgb(243, 132, 132);
+    border-bottom: solid black 1px;
+}
+

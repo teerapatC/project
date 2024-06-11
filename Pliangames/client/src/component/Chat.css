@@ -1,0 +1,486 @@
+::-webkit-scrollbar{
+    display: none;
+}
+.chat-container{
+    background-color: #D9D9D9;
+    top: 7%;
+    position: absolute;
+    width: 20%;
+    height: 93%;
+    overflow: auto;
+}
+.chat-content{
+    padding-top: 1%;
+    padding-left: 5%;
+    border-bottom: solid black;
+    border-width: 2px;
+    cursor: pointer;
+    border-radius: 0.5em;
+    background-color: #565656;
+}
+
+.chat-content:hover{
+    
+    background-color: #c4baba !important; 
+}
+
+.underline p{
+    text-decoration: underline rgb(46, 46, 113);
+}
+
+.message-container{
+    position: absolute;
+    left: 23%;
+    margin: 52px 0px 5px 20px;
+    width: 70%;
+    height: 92.4%;
+    border: solid #565656;
+}
+
+.message-title{
+    margin-top: 10px;
+    background-color: #D9D9D9;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.message-title h1{
+    margin-left: 15px;
+    display: inline-block;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+    padding: 15px;
+    font-size: 32px;
+    font-weight: lighter;
+}
+
+.message-title .accept-button{
+    align-self: center;
+    margin-left: auto;
+    margin-right: 20px;
+    height: 50%;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #17EEA0;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.message-title .qr-button{
+    align-self: center;
+    margin-left: auto;
+    margin-right: 20px;
+    height: 50%;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #17EEA0;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.qrcode{
+    width: 15%;
+    padding-right: 5px;
+}
+
+.message-title .parcel-button{
+    align-self: center;
+    margin-left: auto;
+    margin-right: 20px;
+    height: 50%;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #EEE517;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parcel{
+    width: 15%;
+    padding-right: 5px;
+}
+
+.message-title .parcelConfirm-button{
+    align-self: center;
+    margin-right: 20px;
+    height: 50%;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #17EEA0;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.message-title .report{
+    align-self: center;
+    margin-right: 20px;
+    height: 50%;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    background-color: #FF0000;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.message-list{
+    height: 70%;
+    overflow: hidden;
+}
+
+.chat-display{
+    padding-left: 20px;
+    list-style-type: none;
+    display: flex;
+    flex-flow: column;
+    height: 455px;
+    overflow: auto;
+}
+
+.msg-right{
+    width: 60%;
+    align-self: flex-end;
+}
+
+.msg-left{
+    width: 60%;
+    align-self: flex-start;
+}
+
+.msg-user{
+    margin: 10px 30px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.msg-reply{
+    margin: 10px 30px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.msg-time{
+    font-size: 12px;
+    color: gray;
+}
+
+.msg-user .msg{
+    display: block;
+    max-width: 600px;
+    font-size: 18px;
+    background-color: #80CDDD;
+    border-radius: 0.25rem;
+    padding: 10px;
+}
+
+.msg-reply .msg{
+    display: block;
+    max-width: 600px;
+    font-size: 18px;
+    background-color: #575757;
+    color: white;
+    border-radius: 0.25rem;
+    padding: 10px;
+}
+
+.chat-input{
+    position: absolute;
+    width: 100%;
+    height: 4%;
+    top: 85%;
+}
+
+.chat-input textarea{
+    box-sizing:border-box;
+    position: absolute;
+    left: 2.5%;
+    width: 95%;
+    height: 50px;
+    padding: 10px 40px 10px 10px;
+    font-size: 16px;
+    color: white;
+    border-radius: 0.5rem;
+    background-color: #393939;
+    resize: none;
+}
+
+.chat-input ::placeholder{
+    color: white;
+}
+
+.btn-send{
+    position: absolute;
+    background: none;
+    border: none;
+    top: 20%;
+    right: 2.5%;
+    padding: 0;
+    cursor: pointer;
+}
+
+.btn-send img{
+    width: 75%;
+    height: 75%;
+}
+
+.popupQR{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+.qrcode-container{
+    width: 30%;
+    height: 50%;
+    margin: auto;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-inline: 25px;
+}
+
+.qrcode-container .close{
+    color: red;
+    position: absolute;
+    top: 11%;
+    right: 33.5%;
+    font-size: 38px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.popupParcel{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+.parcel-container{
+    width: 35%;
+    height: auto;
+    margin: auto;
+    background-color: #D9D9D9;
+    padding-bottom: 15px;
+}
+
+.parcel-container .close{
+    color: red;
+    font-size: 38px;
+    font-weight: bold;
+    cursor: pointer;
+    float: right;
+    position: relative;
+    bottom: 8px;
+}
+
+.parcel-container .user1{
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-bottom: solid black 1px;
+}
+
+.parcel-container .correctTracking{
+    display: inline-block;
+    padding-left: 20px;
+    color: rgb(48, 165, 95);
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.parcel-container .notcorrectTracking{
+    display: inline-block;
+    padding-left: 20px;
+    color: red;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.parcel-container .user2{
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+.parcel-container .check-parcel{
+    margin-left: 10px;
+    background-color: #f7930f;
+    border-radius: 7px;
+    border-color: black;
+    cursor: pointer;
+    width: 125px;
+    height: 23px;
+}
+
+.parcel-container .confirm-parcel{
+    position: relative;
+    left: 43%;
+    background-color: #88DD80;
+    border-radius: 7px;
+    border-color: black;
+    cursor: pointer;
+    width: 50px;
+    height: 30px;
+}
+
+.popupReport{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+.report-container{
+    width: 30%;
+    height: 44%;
+    margin: auto;
+    background-color: #D9D9D9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.report-container .close{
+    color: red;
+    font-size: 38px;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+    bottom: 8px;
+    margin-left: auto;
+}
+
+.report-container p{
+    font-size: 18px;
+    margin-block-start: 0em;
+    margin-block-end: 2em;
+}
+
+.report-container textarea{
+    resize: none;
+    width: 80%;
+    height: 150px;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.report-container button{
+    background-color: #FF0000;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    width: 75px;
+    height: 30px;
+}
+
+.popupReview{
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+.review-container{
+    width: 30%;
+    height: 42%;
+    margin: auto;
+    background-color: #D9D9D9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.review-container p{
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+}
+.review-container textarea{
+    width: 80%;
+    height: 150px;
+    font-size: 16px;
+    padding: 5px;
+    resize: none;
+}
+
+.review-container button{
+    background-color: #17EEA0;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    width: 125px;
+    height: 30px;
+}
+
+.offscreen{
+    display: none;
+}
+
+@media only screen and (max-width: 930px) {
+    .message-title .accept-button{
+        font-size: 14px;
+    }
+    
+    .message-title .qr-button{
+        font-size: 14px;
+    }
+    .message-title .parcel-button{
+        font-size: 14px;
+    }
+    
+    .message-title .parcelConfirm-button{
+        font-size: 14px;
+    }
+    
+    .message-title .report{
+        font-size: 14px;
+    }
+
+    .parcel-container .check-parcel{
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    .parcel-container .correctTracking{
+        padding-left: 5px;
+    }
+    
+    .parcel-container .notcorrectTracking{
+        padding-left: 5px;
+    }
+}
